@@ -1,0 +1,308 @@
+relative_path,entry_kind,byte_size,sha256,extension,type_guess,classification
+AVI,directory,,,,,
+AVI/CSINTRO.AVI,file,7487380,e64aa56e823bd70d6acf7ee111dc1d3aecf5c6de570c6caa28684148b59bf907,.avi,RIFF/AVI ,animation
+AVI/CST001.AVI,file,31120200,cbd86f1da9694775c0f30f2054090dfdfaedf1173d4de5336e41882a45dccd16,.avi,RIFF/AVI ,animation
+AVI/CST002.AVI,file,32555028,db7f3755abb0200cf817ba2617dfef1084ccfc3fe58e99704fae98a6de9f65b6,.avi,RIFF/AVI ,animation
+CSTORM.EXE,file,736256,b9d950fe3682885943ae1e7fe1b68a1b1e7b9b0c6d44fa426459eb879965b181,.exe,DOS/PE candidate,executable/runtime
+CSTORM.INI,file,635,35edbab9ab11b6a93fc399ac7cbb6ac52cd5ea4b19bb4c2ef99ca17bdaef7600,.ini,configuration candidate (extension),configuration
+CSTORM.SET,file,211,7e1522f609ddba10a06bfba23528946c0ed1873360bf5a021e0444fab782d185,.set,configuration candidate (extension),configuration
+CWARSDLL.DLL,file,327680,9f5ec131509ae21dcb5b824b30080f28c2e7a8d099e62ac44fc8d7025f9844f9,.dll,DOS/PE candidate,executable/runtime
+CYBDATA1.RBX,file,4764886,9d1f0dd01b8a957e71b65bca22057cd76afc3d7111002e58f2b4114970712538,.rbx,RBX candidate (extension),archive/container
+CYBDATA2.RBX,file,15306390,8035fa63a058ab4dd38f7a375bc5a895340ae5974d47ec007b73573bed2f661d,.rbx,RBX candidate (extension),archive/container
+CYBDATA3.RBX,file,16805969,defc35b524bbab53dc058367ff256dc1111adc6ab8b8a572acf53d8cd11fe9a2,.rbx,RBX candidate (extension),archive/container
+CYBDATA4.RBX,file,165223668,db58a3d85db2ec1e4cd6956ae237853d9662aa79cc9837497be87bfa85c028e7,.rbx,RBX candidate (extension),archive/container
+DOC,directory,,,,,
+DOC/ARMOR.TXT,file,4644,ba5128c78a94fce810268714d4518860f87c98d854e1e383ca27982a8c89bc16,.txt,documentation/reference (extension),documentation
+DOC/BATTERY.TXT,file,2559,b98b04f9359447f4fdf8a0d7a538dd82e62d5f97ea9e39d98317f0070601f735,.txt,documentation/reference (extension),documentation
+DOC/CHASSIS.TXT,file,1755,3600a611067a79cb97f36509a773cd1d5aa2c9bbad49f6c9dcc8e44b411b9d95,.txt,documentation/reference (extension),documentation
+DOC/CHEAT.TXT,file,11403,54db553eb49090258e7ff2e6469862a54c421648f60da96e10a6851e6f0d40d2,.txt,documentation/reference (extension),documentation
+DOC/CYBBUILD.TXT,file,10235,634a85d8a04737751ecaf69a4e130d84df5fca03e0bd9b4cbf6011853ee33f37,.txt,documentation/reference (extension),documentation
+DOC/CYBHERC.TXT,file,28599,b42010dd0d4fe06ca5f5ce6fdbfc38913312546c37e6e5c5738aef7fcd2278c0,.txt,documentation/reference (extension),documentation
+DOC/DRIVE.TXT,file,2683,ddf31805c8bfeaf7fa0f27579d4ed997383f571fe58649c664b73fc9583013b6,.txt,documentation/reference (extension),documentation
+DOC/INTERNAL.TXT,file,8866,5d02fd3d7126651e243edb7fa49bab891aede96a9318435601d9c44bd15d04c2,.txt,documentation/reference (extension),documentation
+DOC/KALI.TXT,file,2620,7da93384ff084a4d04d0166756deb4ce4262f58040617df172d88cc99aedc935,.txt,documentation/reference (extension),documentation
+DOC/LIFE.TXT,file,1906,9b182fc2a1794315bee6e20f0f7dde9414d1b7311e73d0cdf42f53f0b66e3cdc,.txt,documentation/reference (extension),documentation
+DOC/LIMBS.TXT,file,1620,b206a31bb72d87ce8f4e0cfb04fab8d053bfd9460246cdfc2caad2945e11cbe0,.txt,documentation/reference (extension),documentation
+DOC/REACTOR.TXT,file,2179,e40efe502de732d1b2c29e80a95412a87448cd04151b3b6e53ba0a86f25c1712,.txt,documentation/reference (extension),documentation
+DOC/SENSORS.TXT,file,2048,d1f072f04f70f708f50a65c18b8378520a365f56e21ec686efc71c93e6daadfe,.txt,documentation/reference (extension),documentation
+DOC/SHIELDS.TXT,file,1815,f29401d4a3e0f98386c35b29a51d61092057f0ec4964179715cb4914b1024a99,.txt,documentation/reference (extension),documentation
+DOC/TABLES.TXT,file,23648,53f423b9a8b2cc4ea6a057eec2b9bd6b1dfae9ca08f11529b4c8386bf89c1a76,.txt,documentation/reference (extension),documentation
+DOC/TCOMP.TXT,file,2327,f0a371c7cc316115c49e4e30d04433dfbf9cc4b8fe288440d7bd1fc50ac263ad,.txt,documentation/reference (extension),documentation
+DOC/WEAPONS.TXT,file,94533,c1b806ce78578828c7e0aed0736ac52a233b417221cf2bee76cfb70325510f6a,.txt,documentation/reference (extension),documentation
+DOC/WEAPONS.XLS,file,62464,23bb61ac29c78dec2e5a63d6750f747dfb8602ec271d88d771ec11fad8a18a93,.xls,documentation/reference (extension),documentation
+LANGUAGE.INF,file,4504,00d421847d739f46b780ce80dfab4fff594e63be98a99038f908205681510381,.inf,configuration candidate (extension),configuration
+MUSIC,directory,,,,,
+MUSIC/Track02.ogg,file,3924956,106a72566f5946b67c78c29675a2890a807b86510c29112b7088534b0206ea9d,.ogg,Ogg,audio/music
+MUSIC/Track03.ogg,file,4652515,838d0fc1161deb5390ffe3248a9f19678c9f57ccf02c149087b7c7fbdbba4a4c,.ogg,Ogg,audio/music
+MUSIC/Track04.ogg,file,7577215,8f912f4be6e02c300384fecbce417546c5ef78ec50d2d4d75766d22638d0f5c7,.ogg,Ogg,audio/music
+Manual.pdf,file,2764618,40fb9f9551dafe454ed0fd9f42da95ee8f57c184d6805aa7c2f78aa779d92ffa,.pdf,documentation/reference (extension),documentation
+PATCH.DOC,file,34816,9f4f02c5eb39518112d5cec08175394eb9c30a0572d72063ea282f1a7e4012e5,.doc,documentation/reference (extension),documentation
+PATCH.TXT,file,22426,20b54a5c75a234f729e59f1b181aa4d9c639901c6b8a801ef032eb4f9bce3b5e,.txt,documentation/reference (extension),documentation
+QSTART,directory,,,,,
+QSTART/MP00_A.CBM,file,30003,874739ede04de9d92b84f23551f10467a5966adbd128489842cefb73b4daae17,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP00_B.CBM,file,30003,a6bc8d3c2cd3889a5f827031bc27e208ffe95da8f5ca6d699bb97a5bf0f6a567,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP00_C.CBM,file,30003,7c6ccf912430fcc993087818c6441c033d5433b6cc3206a9f831f14616b9eeeb,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP00_D.CBM,file,30003,ed1d65d02c31531d04ec83054b0741b40dc1c99b93e323f11737798bf9066f58,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP00_E.CBM,file,30003,b4c5e2efd25ac61d5d401cd1254dd106ee0579d484cd4efde4ded9566856fc38,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP00_F.CBM,file,30003,874375b42f1a003c675b422978aed4b77a86862b119439449cb570d17c3f035e,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP00_G.CBM,file,30003,d4a324554924e56005e1b36bc0906a4a19b28ddd74d4d77d734011c9fc45ce6c,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP00_H.CBM,file,30003,af95d1339b1b2283adc927869f94a4b0b0c2af74a91effe73bee51e75fa3fdac,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP00_I.CBM,file,30003,5a8ab59cdeb14afebad34c098a3915e502af6d2616346f35189d7b674b85929c,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP00_J.CBM,file,30003,ffd39f67f25d3afa5dc0920efafbe0f6b54c9c9fa27d8b843ccae9666a4c8152,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP00_K.CBM,file,30003,d7f93fb42bb5071e3885b61e5641f4110b220b7e4e5345c38f090d8917561f4c,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP00_L.CBM,file,30003,def13ac6ac07a604c3a3208e2e65d2c8ebff78b79912c65eb5351e8f0daefd63,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP00_M.CBM,file,30003,390f087720b1fd49d1761c3dc3bc85e2fc416debfb39e57a558502cb0c5c6aa5,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP01_A.CBM,file,30003,3ad18641ed056aa9535cb0d83c44d941fd2d5533f2c834da587243b8b25e6dd2,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP01_B.CBM,file,30003,f9876df82846ff1f0dbb8cc861cf5aabc7fb373cb03be072de56dbcab91deb80,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP01_C.CBM,file,30003,6e56d2932c759eac63aa5476c5902113269f62f6fee22a3feca6c72284673167,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP01_D.CBM,file,30003,cf7ba740f2c8e8f84f3fe2f6293a9c29384089ec1212af0c6ed87f157dfdc887,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP01_E.CBM,file,30003,76372362018438066aa9e31c01e0a7aa0357de7aa72089fb9538db6b35ed0697,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP01_F.CBM,file,30003,7c1cb89f89f14fad82ca2ea4adce711a29b861c1876b507ba86058bfbc9ba137,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP01_G.CBM,file,30003,51ab86939ccae826201702b00de0c096662748763b4afa29df67c2abcd5fa86d,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP01_H.CBM,file,30003,7dca10f4214248faaae1aa95c1cd1861d65dd3887846b8b343a3704f730f9011,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP01_I.CBM,file,30003,20e303a40421c3b20b254c04c04c9083698bec92008ccc52d0ae552dc15b925a,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP01_J.CBM,file,30003,4fe62eb908a8daa5de323d49bca95b72319a043b18e9f3caf57343be9b01a7a9,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP01_K.CBM,file,30003,d1c9dabc6b74f2f2a8869068b4ed09f5b7050dc653a2ddd50823a2217f3842c8,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP01_L.CBM,file,30003,7aeb9633311bde88a2e79591d72598365b69e3806618583ee4efc257ee4191ec,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP01_M.CBM,file,30003,034deab5c83c7b2417ea3b660dce3c220515238972427c933a0ea905bfe6bcf6,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP02_A.CBM,file,30003,ed073a8be22384aad48c26ce1cb072f7270bc79569a721315b9bb85b6b634f0d,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP02_B.CBM,file,30003,776f2cabd7d6a380c54e57831a54b2f90fefc371824b7dbc0b7732dd18f209b1,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP02_C.CBM,file,30003,abe0c3674b4ba178b50d566db4851b046c3aa5050e7050b0e29ba95b9cafaa97,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP02_D.CBM,file,30003,71074648f77a5e118b9eee4b6432b910891a814065fa80446f44fb295ddd1fff,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP02_E.CBM,file,30003,ef17c83325f5ed62d84cd9486c98c291e2c26a75bdc17df1c52e496312549554,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP02_F.CBM,file,30003,b9380e4c59f509c7a12d0e79b2b74d63ec681fcacf23fd4fad46969a7fc81f57,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP02_G.CBM,file,30003,d6f77e618c8721dabd9e5b9de52666c4656412d66e848f3f7026a405fcd79a8e,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP02_H.CBM,file,30003,55c30f7da3314a7fe754cb0ca333a80b61e77917545af5681e0a40270c9a8eea,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP02_I.CBM,file,30003,18bdfa34b34e6fdbd1a38e264066c67d3b12c64d38a38b0a4807c3f4d2ed6564,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP02_J.CBM,file,30003,9b1ad1be95367d6b38a88b1af2607ccbd9d260cf66e00a8e30f27d058907578e,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP02_K.CBM,file,30003,48f3c7075b0615e7248f65e7a091ef12728a07d8db73185fb2dd5de0dc7d671f,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP02_L.CBM,file,30003,c40692bc1667fee12dcd7c596e4129e60b9e8f46d099e4a81ff166851b404c79,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP02_M.CBM,file,30003,e1c2d89a8316b6d91db8a44f5afc9180bd91b2dcc5301b48e90ea2c34f61a43d,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP03_A.CBM,file,30003,eb3eccdc0fb1ca8367de555da8b1a2decca953cea93723d29270f350548eb040,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP03_B.CBM,file,30003,b85d2a415f71938a9b5e58fee249ba1569d2e18d6e517286de5de1a41c122e86,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP03_C.CBM,file,30003,246227418ee53ca1b2378236e0d0b7c0e3f136c26f78bd18cabde09a42c9fd4c,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP03_D.CBM,file,30003,8ccdecb273495bdd11b5b31fd973734027908f3b19c745d8b69401ec0a372df9,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP03_E.CBM,file,30003,0765cacce6a8fc05b4e5a13ef6ac245a0899836a31a932cd580ff341a925fb3a,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP03_F.CBM,file,30003,3745f74710ffe1a13bce0003af57c61663cc65181bf5731b6acb14e3a6a76b87,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP03_G.CBM,file,30003,df1af8140c6aef41fd775275de3b0c6161b25c7f770d14c848b0e09acd6cee1e,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP03_H.CBM,file,30003,ed06dff23802170c1f1390864a5a99c1b1d9077d519396a8e1111fbfc05304a9,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP03_I.CBM,file,30003,043e01f835c11a3aa7230aabd5526e7e5d3526c2119dfb340f9113ec3a4cab10,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP03_J.CBM,file,30003,cd532c77e54ee3fd5678b30ffbbe928c640d4fe5e7171a53226b6b72337ef081,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP03_K.CBM,file,30003,4905dfe5a75ea8764f84ce950da4af1753da1adc741362e04b43bf13289cf3da,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP03_L.CBM,file,30003,c3e90c9558055c60c8469e0da8a7c46268484d09fe3ec0f52f2c864a8e52edad,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP03_M.CBM,file,30003,3680fc8588e60962bb5e224822d4e183c03bc5843fe744ed553b88d905d69bbf,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP04_A.CBM,file,30003,ffc0499f79ed66cc784dd6942fd5104c2955af9b974c255c81cbb0d56730f6b9,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP04_B.CBM,file,30003,41a3e6d6d8d5cbd78e0cc7b673ff30c280da96eeb69b561054f8122d91a1adfe,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP04_C.CBM,file,30003,3ae668ee420f722faeb5f1044420dbfccc94d527289c0309ff6da4faf799365e,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP04_D.CBM,file,30003,906fb2f49c13d27ebb4d1f955311443eebd72b98eb33526998c1f01146aafffc,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP04_E.CBM,file,30003,8aac0d8cfcdf88951f4be5ea14bb88114024ae34261b518fb94d654a8b6c93bb,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP04_F.CBM,file,30003,efc0fb91168edf5fc6f774b5c2e2a970795484d9e10b8182ea24fd85aa21c29c,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP04_G.CBM,file,30003,e0a8ee951e3c128b5da163d8883f0d3bad551f462b3be29be5cc85f7f1c2894a,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP04_H.CBM,file,30003,08267785b16542d59429ac66621ceabcd714c1c4ad0beaf4db18107af20b7cf3,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP04_I.CBM,file,30003,aefd1e8c82d9cac7bc60fe7b23ae053da94446dc04f3869ae500e022ca087f3c,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP04_J.CBM,file,30003,f0a0f632094f6495acc94dba3544d211f67c280cd3edbeaba9d357a2f418d632,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP04_K.CBM,file,30003,118e40e36bf1eee34e719051dc9a663b4f17d3c6a92ec0432cd1d84bf93ef167,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP04_L.CBM,file,30003,6d367518cbedc64b07a69ff3d0a8f8ee57280303613a4407838b472fb4da12df,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP04_M.CBM,file,30003,3d3a008a926d865b50b419564916514e2ae6f6f78724f34cb6b85938889284db,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP05_A.CBM,file,30003,045140b9409899d99f490c62f183da0a4a944a75e03889f37d6f579a034fd103,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP05_B.CBM,file,30003,2d8ea858f86d15d38a7c5264d67119b370e17b0f43c3239f829a20531cfd3a93,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP05_C.CBM,file,30003,aaf9bc9e1bf51bb4c00a4c6554daa315f389ab19b641b8e66f56a367bcb4e1ee,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP05_D.CBM,file,30003,95ba280fcc100f3ecd6a0d6979ad48119ea5729ec76c65625958b520d8569edb,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP05_E.CBM,file,30003,0335535ad7e4b90bbde6b6f963989cfa3293465f0958b6b0b6c2c5997ea66024,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP05_F.CBM,file,30003,da6c8aa5ab19bb6ab57884d218cac8046c7c0aa9e40668d5297f90872b695c75,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP05_G.CBM,file,30003,7e2d1b241aef4a41a97663e3b43edebb2c65c7a1d849b75acfa04a5db182cbe8,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP05_H.CBM,file,30003,b12c8fff54724d525057ec5adce9204eeb95ebe5ab04c21318b6ad30b5fa3211,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP05_I.CBM,file,30003,5a95ab694815840e3a60929294f0545e3701f96d469fe55266a5c9eefdbdf75d,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP05_J.CBM,file,30003,34cc42d4c3ac731f9d0bc02cb192a79cd665bb9e559b50d296d8d389711e2edb,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP05_K.CBM,file,30003,4fe8a0398c321c84231eb42beb59b154dc2c8199bc1b4341a2e9ac3b2d8855ee,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP05_L.CBM,file,30003,6b3bf9ea7a5872a08d44c6fe5ea86f40af8b8c122c442d3e0ad66acd0e413ab9,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP05_M.CBM,file,30003,2ee21fc624f1af70a9592de2023d8a7fc94414e410166bb83e57d7742269cfdf,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP06_A.CBM,file,30003,26eab1b4fec13f4874951254ac0b2a32c8842bc24f118bc90ba25912ee550e51,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP06_B.CBM,file,30003,937742b46593a893153d7e499070d712c657166ae73aa09b3697d3b66dd83310,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP06_C.CBM,file,30003,685b5dc3088c637b3fafc1b85b26909e39a5e7f4ca072d6afd4a17179d2d5d43,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP06_D.CBM,file,30003,f7dd4d9f0416e719395f40c983336e15e204c3daddcfedb85aabcaaef44cdac9,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP06_E.CBM,file,30003,df0c936141797906f35075e8bbe21161b34d2ddc30855a6960826429cb6cd10c,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP06_F.CBM,file,30003,6d251f8bfc60e5c73f7215152acc0ba5d372180ef78bfb611f7b86e4ea532696,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP06_G.CBM,file,30003,319a5892ddd03ad64f0a962ea4af1a91db1b0bc3568142976d30bd9e11cc17e5,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP06_H.CBM,file,30003,aff7f8ac98494e18f597567ce553c12ffdb00f37154ba7a20336dc61b864b28f,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP06_I.CBM,file,30003,158e513196097bcf9263aa8a74e4c7172df21e38d3461be9be346495f4f424d7,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP06_J.CBM,file,30003,78f11aa881dc8f9d9c0a4c6b881b650d5b13dba434cad9524c0b386acf7378e0,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP06_K.CBM,file,30003,a77a4220dd97729051c85495a5db5820aa28d8b020a0bb5fdacdbbc89bf1bd36,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP06_L.CBM,file,30003,be45fd1cefb86e495dc1fb13cb3d5c179b472af249ea97815762cd622352f65d,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP06_M.CBM,file,30003,2b198168fa2faeb84f80b555673d43c94dc444df578ab33df0b4638f5a301dd1,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP07_A.CBM,file,30003,26eab1b4fec13f4874951254ac0b2a32c8842bc24f118bc90ba25912ee550e51,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP07_B.CBM,file,30003,7695cd8816b6e643373fd80482f94ba4b8743010df3a1a975b99bd3a02c369cf,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP07_C.CBM,file,30003,4bbfc208267c5a8d3af43f3d7a49b6bde0cb25714d752597b5b2423a26e47cad,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP07_D.CBM,file,30003,4c2b89ba1ec1d85f7c17bafa6884f5d27f56e56c9ea2ba8c93de9d693821f98e,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP07_E.CBM,file,30003,647cb357d3f03d0918e9ce9d674cfc07070fa116d8d70e3d2435dbb2b994f190,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP07_F.CBM,file,30003,c3c4dcbd4d0e1fe0b76b0268132a575e8f28b49176c1503f78903affe6ea8d63,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP07_G.CBM,file,30003,17269058227e026d84a72ce87ad729ad5bf43840f4b5bf07cb2d21d4be2e4604,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP07_H.CBM,file,30003,f0665426d3e5e36f8d2f68be51fbd0d038433d5ca2602b816a76071f63d61cae,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP07_I.CBM,file,30003,c65a78e5e4923ce5d36d57cdb2b35471693671db7f6f9db8358318807ddde5e0,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP07_J.CBM,file,30003,129f32e92b4410e447c5cfde17acf67e06dad5948af5ef3e834f8c0a5f291d89,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP07_K.CBM,file,30003,bd425029ed75d628e692651646357e021b24ceb7a907a3ca4ca87749209e16ab,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP07_L.CBM,file,30003,20cf3d72449562075012c0df6b6634f249be0f8400df2e81da6f5712a1f046ab,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP07_M.CBM,file,30003,ebbe07dd8f0988fc3ae4ae53cdeb74c51b321d9f6c522b4439131d4721cc39a5,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP08_A.CBM,file,30003,cd62bef0f07804b4f300d590b6475b65336ba5731a93b15d2fc3fda15042bb30,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP08_B.CBM,file,30003,77f34925a024de74b444bdee8dfb3399ed859084b98d7f6d4676f1ebb28d3060,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP08_C.CBM,file,30003,2644eb1375ae267c2fa464989e993dc2fc8b669ff5212dbc680ce4b3ff3a70ee,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP08_D.CBM,file,30003,461ab351f027c22ce8cd588205bb12bdc37174adeda5ff5206fd7dd64a6200f0,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP08_E.CBM,file,30003,9a33c0ed5d7d891d15d14cc2412480cfeeaef47913b81cc04f121eaf7166dfbe,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP08_F.CBM,file,30003,6c72226e9fd4cf8d4feb7f398bd399e632c2f14410b1c75605d322ababd001b7,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP08_G.CBM,file,30003,e59f7d9805d2c3e85b434aa891b0d819a8666386bdb869017efbd52fec32cf08,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP08_H.CBM,file,30003,6936df79dd586931e375cbc3cac23cdee7d549c3b1dc2157800fead528c16f05,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP08_I.CBM,file,30003,42255246fa5aff23dbf506170de3c9a561d981430a479676415e9dfc6830699b,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP08_J.CBM,file,30003,d6fa48c204173b7e8dcd3e41889e3073be9bfdbe3518c54825e6f50a30ae8ffd,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP08_K.CBM,file,30003,4574ae5bf7842f5930fcd9fa981ad724e12fa8a281c85c81a79be34eb0186b22,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP08_L.CBM,file,30003,420ab1c11642de628f4d96afd6889ef40464b03a83b7d7306cf748a4443dbea9,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP08_M.CBM,file,30003,5975348a6a23a12a6404cc529b3d6b92644fba1741f437685b266cb480512e66,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP09_A.CBM,file,30003,135bca599ce45b906c0825dacbeb239d1b826bf897a624918728cd0e261805a5,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP09_B.CBM,file,30003,79fe6255818309a714156755966c3a196c78e6adf789c863d8364a3e095dc05a,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP09_C.CBM,file,30003,4f8f4cd9d1f3488d96d5bbb11e47ede11e03576950965faa73e672e4addb8de4,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP09_D.CBM,file,30003,4b6bb0661bf416218dd5c692529a5bb37e910921b4f3cc95d00191189b542231,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP09_E.CBM,file,30003,670668737f8b6d6c53b78b4350625a7f1c5b50f23488fce3af48df3562f48e47,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP09_F.CBM,file,30003,a54bcd41c725b62e093cfa64cd966ef148a0e966278e56193c9f7648d3e6ded8,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP09_G.CBM,file,30003,5dd8a066f7530da01a885eeef1450a9f85d5861d761969c8d630a0aabe2886fd,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP09_H.CBM,file,30003,4cace433d5064ce3513ce9cae2a8bb7f9c80d7f64fcd7a921d71ac4d89d2666d,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP09_I.CBM,file,30003,dae385b2233401be5557b9b83e28d92533461f823d650dee4c6a7d65167fb7b4,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP09_J.CBM,file,30003,23fd6da97c55df2493b138b4aafa0255747b99b04a9e55b15d4bc199f3ac4800,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP09_K.CBM,file,30003,8342849fc470e9cee7bfe01e5458848708f963d9efddf5723ec90cfe538e1f25,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP09_L.CBM,file,30003,0d2ce22fe24f654f0b0a22eaeb47bf95e1bcfe1c97a91bd8e312e80e5ec2aa08,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/MP09_M.CBM,file,30003,c3bdcb8b094b50785860832df4b377d8607df4a03ed72c9815e4a12da055ffb0,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/QS000.CBS,file,30003,c33aff5c994be95c7e93e3bb48dc4c713981b191614c6a784f905a2e4b9f5ed9,.cbs,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/QS001.CBS,file,30003,8d3bf222f707710cf6df7a436301aa2d62225a17d0a77be336d85bd14d0f28f6,.cbs,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/QS002.CBS,file,30003,4d347036b959b107d037c6ab241052744b2c575ab54c3ccef6f8d50907af9fc0,.cbs,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/QS003.CBS,file,30003,c0f7d5f9c315b3c6aa55af8d8f275c4109f0dee4065237c993e3bb9261885b73,.cbs,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/QS004.CBS,file,30003,89a24e9ab0d5e80f242188b732e50def7edb4229de971e629980e6e06fdc1731,.cbs,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/QS005.CBS,file,30003,158e0daba91c357f71b9ed4c07f14203cca45a57baeb7e7cdc727446250e8845,.cbs,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/QS006.CBS,file,30003,77b2773e99b0a3e8092e3ec0aa619727f7f4b6f4d2cc6cc7ea86fe9cb92d7a31,.cbs,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/QS007.CBS,file,30003,3037c09bd32470fc1cf3c302a5829f08bfa729f6eb5e23cdce1ff4c0d0c65c87,.cbs,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/QS008.CBS,file,30003,f24311da9bd9859559889061cbd46957d995ec9c288fbb2fd448efc6ca1fb71c,.cbs,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/QS009.CBS,file,30003,d01d71b2bd372ac422ffdcefcec9c262e4d1e8075cd1650af681841348768bd6,.cbs,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/QS010.CBS,file,30003,2a1c3a6f9beefb033ae5ef0d225f18eade64b162b63ca1847c0331327004073d,.cbs,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/QS011.CBS,file,30003,7b00e0cb626c887c1df228785a0e33b7fd6e7c256f2f26ffd0209ed0c78dea2c,.cbs,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/QS012.CBS,file,30003,c6a75576e544ceacb4a81aa974e93d9afcc7649c1b95a75bc9e0eefb2fa10693,.cbs,CYB quick-start/map candidate,map/mission; saves candidate
+QSTART/QS013.CBS,file,30003,eefcd3a6c54ab08a09410e4615c0420b332b82360635cb95800a67bbcc654b63,.cbs,CYB quick-start/map candidate,map/mission; saves candidate
+README.RTF,file,6987,824441207587308f9460da185d66f67ecd3bfc8f22f74178a87f1b9004487043,.rtf,documentation/reference (extension),documentation
+SAMPLE.CBM,file,30003,0765cacce6a8fc05b4e5a13ef6ac245a0899836a31a932cd580ff341a925fb3a,.cbm,CYB quick-start/map candidate,map/mission; saves candidate
+SEQUEL.ART,file,70415,f9ea00c1aaa507f87cc5612d0645bd807689d9d1cdc22a7a5f0bfafdaed6e65f,.art,PKX-wrapped resource,graphics/palette candidate
+SIERRA.INF,file,15342,a753d03b471fecf20ef1ac7f4a13247df8de39ae61893f69a4131e8131807126,.inf,configuration candidate (extension),configuration
+__redist,directory,,,,,
+__redist/ISI,directory,,,,,
+__redist/ISI/scriptinterpreter.exe,file,1162680,b895f6999c4b7ed7eb3f85c17af9167d12017cd1f5ebc8755adeb969ef4b7fb4,.exe,DOS/PE candidate,executable/runtime
+_inmm.dll,file,90112,2e69f95d3d03af2608a5dcb524fc780c6211675f4a4faadb08292497512cc251,.dll,DOS/PE candidate,executable/runtime
+app,directory,,,,,
+app/goggame-2099484877.ico,file,141685,8130d72e40098f343d42d702949bca0127325f237c7a2c78b2decb78aebc37f6,.ico,image/font candidate (extension),graphics/palette
+app/webcache.zip,file,240111,b66718678c5f35adfde8ad840ca3a4354748c26a71921cfe0e31661c18120cc6,.zip,ZIP candidate (extension),archive/container
+commonappdata,directory,,,,,
+commonappdata/GOG.com,directory,,,,,
+commonappdata/GOG.com/supportInstaller,directory,,,,,
+commonappdata/GOG.com/supportInstaller/uninstall.dll,file,708096,cc685dbcf798549ad1a51c1dde45462e2a451ec59f48ee91219182a3871cd5b0,.dll,DOS/PE candidate,executable/runtime
+goggame-2099484877.hashdb,file,5419,971352ba15f28998e899b277a73fa6777a34775e4720f6167a4fe0937700525c,.hashdb,GOG hash database candidate,installer metadata
+goggame-2099484877.info,file,1014,206515708796c36a5427e595e1110cf82aa94cb1e0adb321172bb29497a3449c,.info,configuration candidate (extension),configuration
+libogg.dll,file,295424,385780848dddd4eaba9ff03b11fbecd03a48ea0d6e75ae442ea7a3af42069037,.dll,DOS/PE candidate,executable/runtime
+libvorbis.dll,file,777216,e98853f7f73eaeebd4be44c1ae89c336c68ab9545b9cea43b6ccd366ea392c16,.dll,DOS/PE candidate,executable/runtime
+libvorbisfile.dll,file,112640,31f9cccef294fc1505b68e127988b8bba8cc38486772a74de5114a61dbcc7edf,.dll,DOS/PE candidate,executable/runtime
+tmp,directory,,,,,
+tmp/1207658740_brazilian.jpg,file,183440,9e4bf107fc904a251c8d3a4e32165213dfcecf8a1fbd969b1b1d7035b5cf64d3,.jpg,image/font candidate (extension),graphics/palette
+tmp/1207658740_chinese.jpg,file,183241,5e8ddcd113f6d138dcd87e15208ca17d6987194bfc3d9b4f6815bdc22b5698d1,.jpg,image/font candidate (extension),graphics/palette
+tmp/1207658740_english.jpg,file,183968,c966ba314f6304f9ae0f0db84ddf1f75906642e3600a365115410252163d5a50,.jpg,image/font candidate (extension),graphics/palette
+tmp/1207658740_french.jpg,file,183412,5aa33f7a605e3386b865e76a8c85c62075128c3a3d31928b02e95d74d432bf8b,.jpg,image/font candidate (extension),graphics/palette
+tmp/1207658740_german.jpg,file,183259,640db358bda8ef7a85da58688776370b956df19d8221b5b29c179cf65544bdc4,.jpg,image/font candidate (extension),graphics/palette
+tmp/1207658740_polish.jpg,file,182403,207eea8d32e7243cfdc3b76d4932b0db076cf7b5ac4cee063f35423619f8c047,.jpg,image/font candidate (extension),graphics/palette
+tmp/1207658740_russian.jpg,file,182534,9e6367ec40f7084b9041e774d4df9ecc39a2d6905d5145907a0181e3c36ef345,.jpg,image/font candidate (extension),graphics/palette
+tmp/1454313816_brazilian.jpg,file,209072,4b327a7923e3cd743ef25196a1c665be52ddffdc441260728e2932ac1cbc2927,.jpg,image/font candidate (extension),graphics/palette
+tmp/1454313816_chinese.jpg,file,208893,5392f7cde7a041f58543357ed3d1c23e75becd501457271114f453d5ce46e461,.jpg,image/font candidate (extension),graphics/palette
+tmp/1454313816_english.jpg,file,209612,79fc01b80cb516bf34170d4aef7deb19852d80f6c9aa7af3e72ab267cca8e269,.jpg,image/font candidate (extension),graphics/palette
+tmp/1454313816_french.jpg,file,209059,55e605524cf7dd79e9c30edf216cec5b74082a4ea9677c5585fc10c1e4895ee4,.jpg,image/font candidate (extension),graphics/palette
+tmp/1454313816_german.jpg,file,208984,41dbd43f7243010025e035012abb0baa368f2f28dff99a4e08fca1be3eef9590,.jpg,image/font candidate (extension),graphics/palette
+tmp/1454313816_polish.jpg,file,208114,8bcecff440925f44a7e7e9d88efb33d930ef0a28b2e6f7f4d6de70078b779525,.jpg,image/font candidate (extension),graphics/palette
+tmp/1454313816_russian.jpg,file,208221,d38d901c8ecb496ac96c6a82424920fd79c5cd836aa6f628c03f7817da138fb3,.jpg,image/font candidate (extension),graphics/palette
+tmp/BigFail.png,file,1673,1aa14a70e8fa82d3769e8edcf5b6a9b2d6102dffd14e249901b27cb156d9889b,.png,image/font candidate (extension),graphics/palette
+tmp/BigFail200.png,file,3490,ba39deaaf965bcd56749102c7af54b6471cbeaf04b2d85c9a836bc4ac97bcea9,.png,image/font candidate (extension),graphics/palette
+tmp/BigOK.png,file,3415,59d8bb3e87a89ef523c0495addce38d69560af42aaa82f56dd41b12e6612c13a,.png,image/font candidate (extension),graphics/palette
+tmp/BigOK200.png,file,13114,0e639270a1325d079c3c645b79ded173ae20382dc66b18ff4e5936e7d97b9ebd,.png,image/font candidate (extension),graphics/palette
+tmp/BigWarn.png,file,1619,c2313c6cd564b058d2481f1550ecf7ad3b255a1d0b09f625cfc31e1c49142d4d,.png,image/font candidate (extension),graphics/palette
+tmp/BigWarn200.png,file,3345,42df8d9503d3a005391174fdf62d85091862e69e45f5e5032f020aa795631c76,.png,image/font candidate (extension),graphics/palette
+tmp/EULA.png,file,2374,5467c1a52fde71bea40f1798698337425a7d2412cc31ec3e09c7509117b2ffd9,.png,image/font candidate (extension),graphics/palette
+tmp/EULA.txt,file,36755,92f8b49d186c49c154bee5eae025934a896b26a0836ae3147e0488c2a1eb3a2f,.txt,documentation/reference (extension),documentation
+tmp/EULA200.png,file,10741,336139d6569cf1d7381f563e10ff206d71e8464ac58b730de2afaa6649b50264,.png,image/font candidate (extension),graphics/palette
+tmp/EULAAccepted.png,file,2693,0de278f5ca6d8570d9bda592268a14a28b87d3631fea2d25721947397aaab79c,.png,image/font candidate (extension),graphics/palette
+tmp/EULAAccepted200.png,file,11682,c4ba6f0af5d0f0fb53bc7a69ca09c3dad78c021bf6c465b4875f428eaae095f9,.png,image/font candidate (extension),graphics/palette
+tmp/EULAShow.png,file,1508,6112851daea2aaa7174e8cfac4a0f61c968bc090342503804c476eff47cc2462,.png,image/font candidate (extension),graphics/palette
+tmp/EULAShow200.png,file,2202,73f9c01885d15b13c59bb3b4ba21063547a55d579395bdde60ede0d0408d1bfb,.png,image/font candidate (extension),graphics/palette
+tmp/EULA_bkg.png,file,3602,b6498286d490ca11aa9f507750fc41dcffa4678e745f65580a71e5e8f80e0012,.png,image/font candidate (extension),graphics/palette
+tmp/EULA_de-DE.txt,file,43163,d1cfe320cb6081bdace9398d7bfb7878ef84a81bd1dc24648133c97171e0be68,.txt,documentation/reference (extension),documentation
+tmp/EULA_en-US.txt,file,36755,92f8b49d186c49c154bee5eae025934a896b26a0836ae3147e0488c2a1eb3a2f,.txt,documentation/reference (extension),documentation
+tmp/EULA_fr-FR.txt,file,45134,3efaccd7a6adec010c92646d3d140c54fafb05318a1e923278086c04c484b5f1,.txt,documentation/reference (extension),documentation
+tmp/EULA_pl-PL.txt,file,39514,4a076da0a7a713665ed42fe0a8be6bab13083c43ffff121b8b829009a9c86f74,.txt,documentation/reference (extension),documentation
+tmp/EULA_pt-BR.txt,file,41049,8088039c555792603480bcc09546a1570053bd7ead5263931deeb9eca9896421,.txt,documentation/reference (extension),documentation
+tmp/EULA_ru-RU.txt,file,73635,20756e9f49e29f3300925c509b4b05b9482a42e3738297b98007a6eae7a12a40,.txt,documentation/reference (extension),documentation
+tmp/EULA_zh-Hans.txt,file,35129,5c7c671b4c43beaae272bd73b5fd1036137f5215bd8b9352409adc997f92653d,.txt,documentation/reference (extension),documentation
+tmp/GOG.png,file,2429,52f864c55083116055ba4e314ac18ada9452a98211f5c15e2e7925cc95139402,.png,image/font candidate (extension),graphics/palette
+tmp/GOG200.png,file,2429,52f864c55083116055ba4e314ac18ada9452a98211f5c15e2e7925cc95139402,.png,image/font candidate (extension),graphics/palette
+tmp/GOG200_new.png,file,2844,79e09001a64136898e3d6a54b1344a85da822d3198fbf26600c14ad2aef7006e,.png,image/font candidate (extension),graphics/palette
+tmp/InnoCallback.dll,file,65024,6afa2d104be6efe3d9a2ab96dbb75db31565dad64dd0b791e402ecc25529809f,.dll,DOS/PE candidate,executable/runtime
+tmp/OpenSans-Regular.ttf,file,217360,e64e508b2aa2880f907e470c4550980ec4c0694d103a43f36150ac3f93189bee,.ttf,image/font candidate (extension),graphics/palette
+tmp/OpenSans-Semibold.ttf,file,221328,aa3b0ef53db12e3d45094030cac0e69d384e44cc5978643dd4390041cad546e2,.ttf,image/font candidate (extension),graphics/palette
+tmp/Support.ico,file,62895,05fe749ef47d1ec862d6c55be78e66d1011226bf1f78409acf57cb79cec5eb20,.ico,image/font candidate (extension),graphics/palette
+tmp/background.jpg,file,354571,e25c6f5e58fd56c159ab6fefbfb1ba2f804fe25eac2dcac007c82fc8d9b5633d,.jpg,image/font candidate (extension),graphics/palette
+tmp/background.png,file,4954,af42068199251b31295685ec393b6666237fecf92ae7de8f23dc20c4ada36c6d,.png,image/font candidate (extension),graphics/palette
+tmp/bg-bot@2x.jpg,file,1250,2c9b1f810bda80edc6a0150fe821dd0aea77422b0decd223eec8e66e9497fdd8,.jpg,image/font candidate (extension),graphics/palette
+tmp/bottombar.png,file,340,8f7981f7c886b309310c7c243a6fe3db469504c52bad6a5b68c258d7447b1502,.png,image/font candidate (extension),graphics/palette
+tmp/bottombar200.png,file,938,2a6b5073d8171e04733a31ad58a4fdfa81f982eb7af5afea8d203058ee9bc7c8,.png,image/font candidate (extension),graphics/palette
+tmp/botva2.dll,file,35840,a4b61626a1626fdabec794e4f323484aa0644baa1c905a5dcf785dc34564f008,.dll,DOS/PE candidate,executable/runtime
+tmp/btn_browse.png,file,4934,dcfd8e16a9dcf64480dfd3c3e42706ead1e8fcf47875987bcae22b52302bed39,.png,image/font candidate (extension),graphics/palette
+tmp/btn_browse200.png,file,11811,6373bd6a82a4bec2a8beaa261ee2fa0fe2b215750d00b47cf41fcabdc1b823f8,.png,image/font candidate (extension),graphics/palette
+tmp/btn_close.png,file,3442,6111c6025b6140557b39048f5baedb57e337d41438b6d58f700ed53fe9d30726,.png,image/font candidate (extension),graphics/palette
+tmp/btn_close200.png,file,9556,c3594c69c7fbbcb27d6686618d6a4c1bf681800b5016920415016a5a1fae3de1,.png,image/font candidate (extension),graphics/palette
+tmp/btn_continue.png,file,4276,9ec8d9099e7c22cc7d8ad07a180abae77f791c0e1c798c44ade23618eab245a7,.png,image/font candidate (extension),graphics/palette
+tmp/btn_continue200.png,file,11493,aafcf8949110aa763224642b08775bc734f7c1017ae658893737b409f9e2e527,.png,image/font candidate (extension),graphics/palette
+tmp/btn_exit.png,file,3846,d15329fe6ac78a340463d6f0fa13969d5e2ff809f2564a5245a3e7f3a0aa8229,.png,image/font candidate (extension),graphics/palette
+tmp/btn_exit200.png,file,8575,9724f2b7a8e7830aed6fcf0790eb3b1dc507effcd376b0cba1898fbff40a6742,.png,image/font candidate (extension),graphics/palette
+tmp/btn_launch.png,file,10203,d98750832eb53e548bd94f972c54ec3123236c6cbf7606a9fc0cb125aefa3127,.png,image/font candidate (extension),graphics/palette
+tmp/btn_launch200.png,file,22015,78099fbe8707b9999468815247a66fe45ae9462584e1137de24a67f12b483235,.png,image/font candidate (extension),graphics/palette
+tmp/btn_md5.png,file,8944,b0193ab375f604fa4a25cabdea8f713babde1c07ab562ffc5679352c8e01db47,.png,image/font candidate (extension),graphics/palette
+tmp/btn_md5200.png,file,12831,7f7f7dfff25795bee041666b91f01f28e8da222c180ca4faa026a6a9884fa501,.png,image/font candidate (extension),graphics/palette
+tmp/btn_options.png,file,5127,2a283443dfaa6cd2326da96c3af006f2b3b665798f49febc1fd18064ab911a52,.png,image/font candidate (extension),graphics/palette
+tmp/btn_options200.png,file,12831,7f7f7dfff25795bee041666b91f01f28e8da222c180ca4faa026a6a9884fa501,.png,image/font candidate (extension),graphics/palette
+tmp/btn_save_as.png,file,5773,776bbb434e324fa8826be0c525af03f21b96b9b4f7803caeeca5d2b845db929d,.png,image/font candidate (extension),graphics/palette
+tmp/btn_save_as200.png,file,15961,00c38cee2eee117d1f1b2440e62265d2b4ca00346b87fe8b3db5c21d7689408c,.png,image/font candidate (extension),graphics/palette
+tmp/btn_skip.png,file,3308,b39c0bff3fa675f2f2886d6397fee9a66b7cefc0bd9ab7434137898cb444880b,.png,image/font candidate (extension),graphics/palette
+tmp/btn_skip200.png,file,8728,769842a27a8da5cba84dc95f4445be00fe2069fd4e4695250dc5ad65f6498e59,.png,image/font candidate (extension),graphics/palette
+tmp/btn_start.png,file,4316,00bbefaa1336404fe86b5b84cd91de1d48fe50c3a756c0de5ca62cc5418f2d42,.png,image/font candidate (extension),graphics/palette
+tmp/btn_start200.png,file,9817,1cd14e812abfba142f2f8ad6e013cce523f15bab2fbe000157c0065022dc2c09,.png,image/font candidate (extension),graphics/palette
+tmp/btn_tryagain.png,file,10747,213cb436c08c83a353ac63765b34db678e3c6a55f5eb3246b5c0b1e1b627e0eb,.png,image/font candidate (extension),graphics/palette
+tmp/btn_tryagain200.png,file,24823,65d2818980bd002fde49f877b6f02d402e83b3055455f6766d3918f5b534f712,.png,image/font candidate (extension),graphics/palette
+tmp/crcdll.dll,file,71168,23e90ce5a1f2d634a7bf5d5d0522fafeea6df9e536e16f5ce91035d5197128ec,.dll,DOS/PE candidate,executable/runtime
+tmp/empty,file,0,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,,unidentified,unknown
+tmp/error.png,file,726,142b16dc6239421691fa6e619d1a61e61176d89fa018a88b46893c29a57aad8b,.png,image/font candidate (extension),graphics/palette
+tmp/error200.png,file,1818,3f3798c8e0e572f44b543e427bdb3bf83a6bc68eaa4088c485252f06594d0ee2,.png,image/font candidate (extension),graphics/palette
+tmp/error_icon.png,file,1474,acdf96ee4261fae138e6350a0ad50b367022ed5b908fa168baad92644f566ee8,.png,image/font candidate (extension),graphics/palette
+tmp/error_icon200.png,file,2189,49010d559bcd670aea5a3effed6b29206dce72a8638d61bca01f8fb84bd7334c,.png,image/font candidate (extension),graphics/palette
+tmp/gog.ico,file,69248,f6a71321521ba89713f0bd38b21f809e87e8a789cb172e8e4693f9479e30b1e4,.ico,image/font candidate (extension),graphics/palette
+tmp/gog_installer_background.jpg,file,354571,e25c6f5e58fd56c159ab6fefbfb1ba2f804fe25eac2dcac007c82fc8d9b5633d,.jpg,image/font candidate (extension),graphics/palette
+tmp/gog_new.png,file,3948,0804b385c1736e009fe8c3b1b14085b9b9abb40ce487360002ab4a8f3505f4e0,.png,image/font candidate (extension),graphics/palette
+tmp/innoSetupEula.txt,file,1559,b4f4c66bdbf72c0b620041b556293f79f90cb8bcacd43718438e96a5a10e9de0,.txt,documentation/reference (extension),documentation
+tmp/md5log.ini,file,7,eb9fba98ed5bb733f20b4769852d6578eab8a5d76325cead6405bd2697ee6e72,.ini,configuration candidate (extension),configuration
+tmp/ok.png,file,1209,0d37d4421a39ca8852eb6760b8e914302bdc6cfcc7b170dc1b6c9bb9be148b7e,.png,image/font candidate (extension),graphics/palette
+tmp/ok200.png,file,2229,9747c18d583d3d0fdb7b8506a4500d772c38ff6715fe0a8b2c832c97a25cc8a4,.png,image/font candidate (extension),graphics/palette
+tmp/progress_center.png,file,1152,2b9dae87340e66b67ab1d8247d4a137628e324969f92fe1098f95a7c5bab2f43,.png,image/font candidate (extension),graphics/palette
+tmp/progress_center200.png,file,1291,3c5757fb624de6b7459b302e24033a064ddabec1b4285a240af3e1ffd553002a,.png,image/font candidate (extension),graphics/palette
+tmp/progress_left.png,file,1174,85e39d909a7300fa2043ec42818582867b981401264b14fc5408e477ae0b4668,.png,image/font candidate (extension),graphics/palette
+tmp/progress_left200.png,file,792,2be8a347b163bc661a6fc6ed58d0fa24d57f0919cc7f647b996edd1f5f49c07b,.png,image/font candidate (extension),graphics/palette
+tmp/progress_right.png,file,1177,396a3351fe409328782ab138282cf9cec061a5a9540a3506700a620db1f54e7d,.png,image/font candidate (extension),graphics/palette
+tmp/progress_right200.png,file,828,43688e577bb8f137103067758038c405666e22af88c4e2de859f37f7ba31d8d8,.png,image/font candidate (extension),graphics/palette
+tmp/scroll-handle-bot.png,file,1025,305b67d300181c31765a6e20ed4e439f491b9d2ef01deb6f89e09d176aa6df0d,.png,image/font candidate (extension),graphics/palette
+tmp/scroll-handle-top.png,file,1032,84805429bf3e7859e01013f89a25af2106b822b4e10e4839ff688dd2ef14fdc0,.png,image/font candidate (extension),graphics/palette
+tmp/slideshow.ini,file,261,d8126758b1f769b20acc78edb64f350ef959f1700541f8b4892eadf05e9d9cd5,.ini,configuration candidate (extension),configuration
+tmp/track_center.png,file,1118,794f9eeca7fd99846968376b76a296c927532cef1271325cbf555caa0d0d5860,.png,image/font candidate (extension),graphics/palette
+tmp/track_center200.png,file,1236,e125f4b8476980da62785c5fdc781d5fe8c5928e64aebfcc20fe8d63140bd1fe,.png,image/font candidate (extension),graphics/palette
+tmp/track_left.png,file,1137,a8340fb5380c922b60ea40043590dba067dcfed6e22636851691df38156a3aa8,.png,image/font candidate (extension),graphics/palette
+tmp/track_left200.png,file,558,343aef896f25a15ef4cfe6db777ca0ccb83f040f1c2d135ebe14bf5674eae416,.png,image/font candidate (extension),graphics/palette
+tmp/track_right.png,file,1147,f54cd6e42f2b2bc5cb8a15f6a28f1499abf094a519ebdf39f4c4e167312c9c16,.png,image/font candidate (extension),graphics/palette
+tmp/track_right200.png,file,557,004a3253facbac99cae9e0581f3dbe53783da421cce49cac62f1bc93bb749ac6,.png,image/font candidate (extension),graphics/palette
+tmp/trackbar_back.png,file,1737,f13470207828bfd2a0f02dfb513e2438f224e69a730b4787fcf72276d90d8ded,.png,image/font candidate (extension),graphics/palette
+tmp/trackbar_back200.png,file,4504,be74e603de71aa05f0336112b9a57c13a14da482523c9ea0f84ff028fe4b546a,.png,image/font candidate (extension),graphics/palette
+tmp/trackbar_btn.png,file,2045,72a872f80f232c813d629234c52445049c57e83ace8650fb84451f763aa9f392,.png,image/font candidate (extension),graphics/palette
+tmp/trackbar_btn200.png,file,5787,45f2104bd9ec23edc935c5e65865232cbe0ebb61bb232f02624d7147a0c0ea7f,.png,image/font candidate (extension),graphics/palette

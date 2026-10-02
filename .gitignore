@@ -1,0 +1,11 @@
+# Proprietary research inputs and outputs — never commit.
+/installer/
+/local-research/
+/extracted/
+/game-data/
+/dumps/
+/exports/
+/scratch/
+.DS_Store
+__pycache__/
+*.pyc

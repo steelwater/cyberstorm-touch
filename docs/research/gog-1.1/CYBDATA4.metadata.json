@@ -1,0 +1,3882 @@
+{
+  "file": "CYBDATA4.RBX",
+  "byte_size": 165223668,
+  "entry_count": 248,
+  "index_end": 3976,
+  "contiguous_payloads": true,
+  "extension_counts": {
+    ".BMX": 26,
+    ".FLX": 219,
+    ".WAX": 3
+  },
+  "entries": [
+    {
+      "name": "BABY.FLX",
+      "offset": 158161220,
+      "stored_size": 1483307,
+      "sha256": "d68b58a2cbec5bddcbde9765dbee63b59ac2de365cd5d4a648f270657d5abc2c",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1483307,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMS.FLX",
+      "offset": 138812419,
+      "stored_size": 236436,
+      "sha256": "a4546b040d0a375b15366f09ddcdd43bcf0474110618bd6d065f64b733fe6ee1",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 236436,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH01A.FLX",
+      "offset": 23827462,
+      "stored_size": 304288,
+      "sha256": "af28eae46323bad6127f132bce53dbbe10681862b24012634e0e1f393bd163cb",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 304288,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH01B.FLX",
+      "offset": 32284139,
+      "stored_size": 372180,
+      "sha256": "235a1b236813482e87858d1534ecdf538944ce463e14012b83aea3321b3facdc",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 372180,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH01C.FLX",
+      "offset": 42050584,
+      "stored_size": 416814,
+      "sha256": "1fb40b1cba698b9e5c7c44347aebc2f21fb6ea9d309086e9dad07ecddbc4855f",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 416814,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH01D.FLX",
+      "offset": 51388156,
+      "stored_size": 380313,
+      "sha256": "3ae85c278d8a88b45bf5bcb9e47f0b64a69ac1a8609721f0931d604115a275a7",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 380313,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH02A.FLX",
+      "offset": 19551579,
+      "stored_size": 188734,
+      "sha256": "0f094aeaf5a68f8c3f4879db3bac63f642d00e80284fc7d1d9f662a0bf7ba853",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 188734,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH02B.FLX",
+      "offset": 26328121,
+      "stored_size": 220338,
+      "sha256": "aa609e364225502cb63dda14eee1b14b59d8173dd136269b65cc79fdb0f947fe",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 220338,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH02C.FLX",
+      "offset": 34670231,
+      "stored_size": 279364,
+      "sha256": "779f03deb2a85d12880540740d7926907851c0de76bbac82acb4d270584a220e",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 279364,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH02D.FLX",
+      "offset": 44610916,
+      "stored_size": 221075,
+      "sha256": "a6951c779a1ce901c7a4891ae727ccbd6c4384c795d6a8c88e12a2a68396cf08",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 221075,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH03A.FLX",
+      "offset": 17490283,
+      "stored_size": 367668,
+      "sha256": "c25faef6a8d95c8db6080dd22a416706f7cf6088d417260a744bbfe9da0e8618",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 367668,
+        "magic": "0xaf20",
+        "frames": 91,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH03B.FLX",
+      "offset": 24697444,
+      "stored_size": 467195,
+      "sha256": "a949d948ed2a87b30fddaa29c792b877ef456596f9b9df52a578c6ee6ddb4b21",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 467195,
+        "magic": "0xaf20",
+        "frames": 91,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH03C.FLX",
+      "offset": 39880425,
+      "stored_size": 483928,
+      "sha256": "eeb74f9f1844668a04090fcafc7ee946a29d956fd2484c28aff23a4db357c82c",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 483928,
+        "magic": "0xaf20",
+        "frames": 91,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH03D.FLX",
+      "offset": 51149412,
+      "stored_size": 238740,
+      "sha256": "7577602e7e8b4539a85c8916845dfb01aec7f25750ae6ab9ac60b67b8c2de8ac",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 238740,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH04A.FLX",
+      "offset": 23235937,
+      "stored_size": 462762,
+      "sha256": "90bd418cc94081021eb28df8ff147e3be9087c1c428c38eb50e8e732fad0d45e",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 462762,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH04B.FLX",
+      "offset": 31805405,
+      "stored_size": 290265,
+      "sha256": "c7dca3e3e89a30fcdf6607de4b2e1f73022b571bf4b50d48c7a36c0fdca22e6b",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 290265,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH04C.FLX",
+      "offset": 41679752,
+      "stored_size": 370828,
+      "sha256": "4ea43177ca06aa1e9b2f90fd152a50aedf1ccecd18967e4fb85948c79f71a505",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 370828,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH04D.FLX",
+      "offset": 50891731,
+      "stored_size": 257677,
+      "sha256": "ff11025d8a3d1b9b12ebb0baf6ca50883d401152995aaeb658c2a5022718099f",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 257677,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH05A.FLX",
+      "offset": 18392167,
+      "stored_size": 239716,
+      "sha256": "325e5142b6ff4ac41d9c6c95555dc4f437fde192e39af235c90cca8cb97758f7",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 239716,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH05B.FLX",
+      "offset": 25417865,
+      "stored_size": 276185,
+      "sha256": "a3e3ef7803da47126ac05b591e541407254e825f6df779335c8160dafdcb1121",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 276185,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH05C.FLX",
+      "offset": 33618389,
+      "stored_size": 310458,
+      "sha256": "683fcc6f514c3688504d786744d8a22de84dc93a4935eab45320baa2548a241e",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 310458,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH05D.FLX",
+      "offset": 43333858,
+      "stored_size": 308622,
+      "sha256": "ae6143f27ce6f297a84ae35550249dbbc61dec21e16643c22f8dff7e993eabc5",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 308622,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH06A.FLX",
+      "offset": 18631887,
+      "stored_size": 303151,
+      "sha256": "e1d20c75f432f02df6b58b6b945398c223977bf954f46ef03185520d9dd5ac72",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 303151,
+        "magic": "0xaf20",
+        "frames": 91,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH06B.FLX",
+      "offset": 27881767,
+      "stored_size": 379349,
+      "sha256": "3f767ba694ccf9a9017152c719f710084795da1e3fe88780c80372be8762baba",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 379349,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH06C.FLX",
+      "offset": 36563972,
+      "stored_size": 407333,
+      "sha256": "ca2c6fa70e113747299a77f02d714c7ba45c6ca06c88c38a91f932a8688d64ec",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 407333,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH06D.FLX",
+      "offset": 47041447,
+      "stored_size": 364801,
+      "sha256": "ca6bc2e17e37f4a83159ec90c71b8afc10a4e5c90f9eecfafc16493dbe08ca1d",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 364801,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH07A.FLX",
+      "offset": 22643733,
+      "stored_size": 369563,
+      "sha256": "0f14cd934228e374e25234bd1f3059cc8dde144fbc72ff3f6f903d16f5517fe2",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 369563,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH07B.FLX",
+      "offset": 31174960,
+      "stored_size": 338237,
+      "sha256": "7be3b68a1da859f86be2b589b972d326b258c115b2d8ca319a4a413aa87118c7",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 338237,
+        "magic": "0xaf20",
+        "frames": 89,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH07C.FLX",
+      "offset": 40760926,
+      "stored_size": 388549,
+      "sha256": "3d57ea51422f5d255905ba1ddc656d91e46c1e13a340c055cd12fe52017fe70d",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 388549,
+        "magic": "0xaf20",
+        "frames": 88,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH07D.FLX",
+      "offset": 45125840,
+      "stored_size": 433594,
+      "sha256": "8144bce80598f41f38df692413770dd60e4c0f25a668a4373b97150ae3bdde66",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 433594,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH08A.FLX",
+      "offset": 22346468,
+      "stored_size": 297261,
+      "sha256": "cf73801848feda7f254a7f483bc44b383b4144da568728554f38bbf3472056bf",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 297261,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH08B.FLX",
+      "offset": 30805935,
+      "stored_size": 369021,
+      "sha256": "843d24b335eea9062586163d02d62238acbbc0cdb5a10c910abfacdad31bf347",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 369021,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH08C.FLX",
+      "offset": 40364357,
+      "stored_size": 396565,
+      "sha256": "4771506d4c93683e15f3a2ed820b3fb3a4183eba84aa1150144a1092f3cf26a9",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 396565,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH08D.FLX",
+      "offset": 50060994,
+      "stored_size": 345727,
+      "sha256": "df129d87e50ec763d19c377c717946ff637cf33d82d28c1beccd71a22b3a0bc1",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 345727,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH09A.FLX",
+      "offset": 18935042,
+      "stored_size": 313148,
+      "sha256": "aad07ab033b36091b00ca23a6c7802436af8d63450bd983501dfa979a26dac51",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 313148,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH09B.FLX",
+      "offset": 25996669,
+      "stored_size": 331448,
+      "sha256": "b83353d90d689e1f111fc8c08a94853b01ced4bddfc32ccb2ca21cac7358b3f2",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 331448,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH09C.FLX",
+      "offset": 34244371,
+      "stored_size": 361619,
+      "sha256": "377c10005db1e8f750e68b9bf5fd3469f3d50d982ff59ed93c5b4a1f919ff016",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 361619,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH09D.FLX",
+      "offset": 44194194,
+      "stored_size": 416718,
+      "sha256": "fa99f6ef8a1696e19117a40b2b6431a8cd86a26d4258b8ee712f183af90ca96c",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 416718,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH10A.FLX",
+      "offset": 23013300,
+      "stored_size": 222633,
+      "sha256": "f97898bc03cb4daf24c388bf39c896a9dd2b55a20fcb9382d0a3837940ff8f3c",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 222633,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH10B.FLX",
+      "offset": 31513201,
+      "stored_size": 240661,
+      "sha256": "3368e92ce59c6a87d1cd52066cde84c093d87b8edeaf4bf1e8c1dde40147a1eb",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 240661,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH10C.FLX",
+      "offset": 41149479,
+      "stored_size": 270220,
+      "sha256": "5fe4e7f8721719c48cfdff69bea46d2d8d0b92cddc8546614c477a3d16c36e65",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 270220,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH10D.FLX",
+      "offset": 50406725,
+      "stored_size": 251864,
+      "sha256": "68d6f3807ea343afd08e7007348bd0d8aeff6ec8cf507205bd337e21a4ce1faf",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 251864,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH11A.FLX",
+      "offset": 21237614,
+      "stored_size": 96244,
+      "sha256": "e189cc90cd891f1a1d8e88742e7c25c593b32e73659188f217aaa72afc194a2d",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 96244,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH11B.FLX",
+      "offset": 29286014,
+      "stored_size": 124963,
+      "sha256": "3e4df9d8dcf1e92219946d9b91364c7126a11a839d4d9aa89b575c8b04bb3f92",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 124963,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH11C.FLX",
+      "offset": 38262238,
+      "stored_size": 135207,
+      "sha256": "26c828fb40f1db18ec399ed46025d0bb83e41949049f57bef844df5b264015ec",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 135207,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH11D.FLX",
+      "offset": 48621577,
+      "stored_size": 183780,
+      "sha256": "20b43a47aa60899707dbce902c3a8772888d16046c40aee404c2e4e117cb9e64",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 183780,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH12A.FLX",
+      "offset": 21055970,
+      "stored_size": 181640,
+      "sha256": "b454398ee88b426a060f96a871742da3015a8f3fea75f684dbe352db007f02a9",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 181640,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH12B.FLX",
+      "offset": 28745904,
+      "stored_size": 243873,
+      "sha256": "9ba73994eb5009f1d58e2821d476329bc2455dcccd7e9357c8110d7a6aa54378",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 243873,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH12C.FLX",
+      "offset": 39599536,
+      "stored_size": 280885,
+      "sha256": "1cd6482dc9cebdeec889d66334d6739d0aaa6762e78ea98113ade22dccc059dc",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 280885,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH12D.FLX",
+      "offset": 47637480,
+      "stored_size": 294867,
+      "sha256": "a59d8af25b815e8d34bda35d94f22e1a6027ddb3c9d39b1f4261e7a3705f36a4",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 294867,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH13A.FLX",
+      "offset": 19837711,
+      "stored_size": 184511,
+      "sha256": "12be2dcb8fe1984bd3b51eb5fc8617cbd160d893a28b7e0e7e950a4c6c67106d",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 184511,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH13B.FLX",
+      "offset": 28989781,
+      "stored_size": 296229,
+      "sha256": "32b333ea612636238e60e7e1ac54f4793c32b91b148692de57addd5b6c4b940c",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 296229,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH13C.FLX",
+      "offset": 37918678,
+      "stored_size": 343556,
+      "sha256": "016bff62f296adba8124011f76252e51fa5dbf45c968cf97c0f8c2c9d3811c96",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 343556,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH13D.FLX",
+      "offset": 47932351,
+      "stored_size": 348358,
+      "sha256": "020bc21cb8b4316c84dde53d85ee11e4f2322ad31a2ac2bc0e888c20b53dc6de",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 348358,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH14A.FLX",
+      "offset": 20445205,
+      "stored_size": 284267,
+      "sha256": "05b1718361c03375a205c0f8216361c2cd03d370a157b9cdfd758dffd7c22543",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 284267,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH14B.FLX",
+      "offset": 27575223,
+      "stored_size": 306540,
+      "sha256": "6f8ced841bc4d66d3e8160801ce8f084aae1ea29595d5ad87bf572533085c916",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 306540,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH14C.FLX",
+      "offset": 36223544,
+      "stored_size": 340424,
+      "sha256": "b83713c7bd8f86078e2413c4535089748918175a59b4a5df46e96e5a82660c37",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 340424,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH14D.FLX",
+      "offset": 46713143,
+      "stored_size": 328300,
+      "sha256": "a783b91aecce8bce4bb70d294f645ac20f332750884e67bd31a3febafd511a26",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 328300,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH15A.FLX",
+      "offset": 20121241,
+      "stored_size": 224945,
+      "sha256": "119e68d3020be9a122567caa252d601fe9389de1d80fd01a4e158ae0dabe19cc",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 224945,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH15B.FLX",
+      "offset": 27257894,
+      "stored_size": 317325,
+      "sha256": "3c291c53ef2f3dfbc74c10406f37c341db7f54bd9729d6c4f44c4f2517f18202",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 317325,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH15C.FLX",
+      "offset": 35871080,
+      "stored_size": 352460,
+      "sha256": "c5cb46367f64fe46b7b329fb49b3bea103c6a86506a44294ce8ba47b92dfea65",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 352460,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH15D.FLX",
+      "offset": 46415556,
+      "stored_size": 297583,
+      "sha256": "62dc3ea14a15c800cc4b1d70a5144666c18f456af5c369f41189757f47094f55",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 297583,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH16A.FLX",
+      "offset": 20729476,
+      "stored_size": 153303,
+      "sha256": "258403b12495164fedf910b6b20213cefc42fa6590af0f6566517646a0044da1",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 153303,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH16B.FLX",
+      "offset": 28261120,
+      "stored_size": 243435,
+      "sha256": "d6bb7420429f13c1bc366656d71299d44e779b587496d37c6544aa405a69360e",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 243435,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH16C.FLX",
+      "offset": 36971309,
+      "stored_size": 308028,
+      "sha256": "591391e46597dedce23298f4a282ba375d7def8648ccfa82dc1cfcadccfccf7e",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 308028,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH16D.FLX",
+      "offset": 47406252,
+      "stored_size": 231224,
+      "sha256": "9e1a6b8f9ab60b88dbd52321ac6378bf04a7e6924bc7bb95ed18661976b2c0b2",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 231224,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH17A.FLX",
+      "offset": 20882783,
+      "stored_size": 173183,
+      "sha256": "6e7a8017a9119e82557bd0642ad9e3548752d432cab6c6ad0043daa1a33e2dfc",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 173183,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH17B.FLX",
+      "offset": 28504559,
+      "stored_size": 241341,
+      "sha256": "9f94b9dc5ad3a15dc5ac7ab013ae45d3e80784a61dccd303e0ac835b8693eb18",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 241341,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH17C.FLX",
+      "offset": 37279341,
+      "stored_size": 291788,
+      "sha256": "7b78b0714b480e4b544bd8dde58c1fe0b486f155edb24e4a06c8129cc3aedf70",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 291788,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH17D.FLX",
+      "offset": 43642484,
+      "stored_size": 330329,
+      "sha256": "2dd6d4021687e52a7e8b7e3747a13de82dc8ba900d894774f71f1df49101dca7",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 330329,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH18A.FLX",
+      "offset": 20022226,
+      "stored_size": 99011,
+      "sha256": "535183689957bb9aab0fad68a35c14b4728dc81492b00157054afd320082dd88",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 99011,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH18B.FLX",
+      "offset": 26705777,
+      "stored_size": 235797,
+      "sha256": "74d2a577e1172fa13dcb01deb8dc15c8d608a454b5763d999fb87ebff44c0802",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 235797,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH18C.FLX",
+      "offset": 35166776,
+      "stored_size": 347541,
+      "sha256": "29264d0ea8d3f6000d5abe7afc1c1b4086890d8b7cb4388f4620f5d150baa127",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 347541,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH18D.FLX",
+      "offset": 45877003,
+      "stored_size": 340860,
+      "sha256": "9b2757f21a2fed7e73480aa8126168df153535b184709cdc717fe527ede7d011",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 340860,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH19A.FLX",
+      "offset": 17857955,
+      "stored_size": 223531,
+      "sha256": "ecff9c23f50c09779a645ea69a321f22ac10744cd357905674d96f6ab7c5bfb7",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 223531,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH19B.FLX",
+      "offset": 25164643,
+      "stored_size": 253218,
+      "sha256": "16c6f49e5ced49473ee1a2554bd68e2a38d87ef1e90b03f5d3f68531a533df65",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 253218,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH19C.FLX",
+      "offset": 33305126,
+      "stored_size": 313259,
+      "sha256": "1bad1a49782f967f346d1836b4899ddd763bb7839b6e076974fc9ffea6119611",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 313259,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH19D.FLX",
+      "offset": 43034608,
+      "stored_size": 299246,
+      "sha256": "8a8355c49efaf0f96bb6a6f3fd91b87b3b8969553b64a39cd4262c8ef896541c",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 299246,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH20A.FLX",
+      "offset": 18081490,
+      "stored_size": 310673,
+      "sha256": "b25b524e23a0716cf8659f00d35d261f95f2fbe00691c826f7bc413bd45739d8",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 310673,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH20B.FLX",
+      "offset": 26941578,
+      "stored_size": 316312,
+      "sha256": "7ebb7266737972ca47d196fc1e2ae0d9d877c0b881faae9d989369759672c8b9",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 316312,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH20C.FLX",
+      "offset": 35514321,
+      "stored_size": 356755,
+      "sha256": "b44df8ca6152089febc3b12f376f241da4ae5b117ffa1a9f06ce26c00450d623",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 356755,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH20D.FLX",
+      "offset": 44831995,
+      "stored_size": 293841,
+      "sha256": "bcbfd74fcf8d3b1d223b047c34d2c9beb1cbaaf1da6a445325c74d8553ee998d",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 293841,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH21A.FLX",
+      "offset": 19740317,
+      "stored_size": 97390,
+      "sha256": "aa5cf3710ec1dcc211b4a0a09256182d40812f9fbde53c053b0f139e78c678f8",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 97390,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH21B.FLX",
+      "offset": 26548463,
+      "stored_size": 157310,
+      "sha256": "b4337e9cfd14731d9eab4fdb6a62fb99487b763d1208015d04d875bf35eb491c",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 157310,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH21C.FLX",
+      "offset": 34949599,
+      "stored_size": 217173,
+      "sha256": "0d0055055c9b33822819e09cab2602b0fcb68ca3507d679af1c84083ffb4774c",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 217173,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH21D.FLX",
+      "offset": 46217867,
+      "stored_size": 197685,
+      "sha256": "74676327524cd23f27389dc05188e901449645fe85b5b3cf9dfbd2161b1ed300",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 197685,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH22A.FLX",
+      "offset": 19248194,
+      "stored_size": 303381,
+      "sha256": "f6bff04454984f73dd425691df99216bd74dc337db0157eb50e940c4212398ac",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 303381,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH22B.FLX",
+      "offset": 24367555,
+      "stored_size": 329885,
+      "sha256": "3f68779189bd422cd801887a36d57cd061cb0b1c3c3da477bce8127ff0b05405",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 329885,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH22C.FLX",
+      "offset": 32656323,
+      "stored_size": 315713,
+      "sha256": "47bfe11185f77c0c04de11d719f4191ecb52761356d4bf7fbdc9a646ea9ad546",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 315713,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH22D.FLX",
+      "offset": 42467402,
+      "stored_size": 242231,
+      "sha256": "cfb64dfc4262aa089027fb9ec1351485c3dc971509e0349876f19da2c199e3a1",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 242231,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH23A.FLX",
+      "offset": 21333862,
+      "stored_size": 211667,
+      "sha256": "8e96055576e13e779e51bada478f12613741d27857c3ab34c960150b99e105ab",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 211667,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH23B.FLX",
+      "offset": 29410981,
+      "stored_size": 274379,
+      "sha256": "c89d81bdf6c09ed4505315b86e8f420984ada16cd3f38153deabc92b45720ed9",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 274379,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH23C.FLX",
+      "offset": 38397449,
+      "stored_size": 338928,
+      "sha256": "2de5ff81404d40573451875733ce6bda339288b0ff2f20894415e496d87bc36b",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 338928,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH23D.FLX",
+      "offset": 48805361,
+      "stored_size": 333547,
+      "sha256": "517b2a00b307d14313c1469ad96f43662f3a6873a425ac1020f7c8253d955a40",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 333547,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH24A.FLX",
+      "offset": 23698703,
+      "stored_size": 128755,
+      "sha256": "0a36f1593799db465733d467f5391053d0d2bac6cdaecd7c91ab573266fad84f",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 128755,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH24B.FLX",
+      "offset": 32095674,
+      "stored_size": 188461,
+      "sha256": "9d14bf7155d0e08814064afaedff9f3da361cad336d50962ea0159599fb39314",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 188461,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH24C.FLX",
+      "offset": 41419703,
+      "stored_size": 260045,
+      "sha256": "abb78619f2ad3f1261163c87876d174f0c63c71505072d7b7d3b84f1bc52a3a7",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 260045,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH24D.FLX",
+      "offset": 50658593,
+      "stored_size": 233134,
+      "sha256": "d92e8aa93d0efb717f67192c384af7770c053de4ad44621629985fb5a920cbec",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 233134,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH25A.FLX",
+      "offset": 22313153,
+      "stored_size": 33311,
+      "sha256": "9e805d6575598355d60b5e922a3acb37ddb56b1072b02df56f5971b752f0e84a",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 33311,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH25B.FLX",
+      "offset": 31753866,
+      "stored_size": 51535,
+      "sha256": "b5594c4e66a3f0e1f2b05fe07ab55c93f61818fe4d3fe3446d7fdbe53b350726",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 51535,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH25C.FLX",
+      "offset": 34605994,
+      "stored_size": 64233,
+      "sha256": "9cba5e0618eb697737e26591b8badd66c247c700e97f764d80d72435cc5b0de5",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 64233,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH25D.FLX",
+      "offset": 45559438,
+      "stored_size": 317561,
+      "sha256": "ce6a1acb8263f4e4bf930decbfbf865dd82c9c1ef8e1b19a20c82a66a35f2a2e",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 317561,
+        "magic": "0xaf20",
+        "frames": 400,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH26A.FLX",
+      "offset": 21545533,
+      "stored_size": 229462,
+      "sha256": "e64f6dd290606af3ef2c7ded39945a6bb9886a866ac04740bb178d16c2afca5c",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 229462,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH26B.FLX",
+      "offset": 29685364,
+      "stored_size": 272951,
+      "sha256": "d0542e6b586988c16a15ccbbba7bb6f4a2668eb51a3bc608ca6b28048418c4ae",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 272951,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH26C.FLX",
+      "offset": 32972040,
+      "stored_size": 333082,
+      "sha256": "a4745f5577ea19cad6476c3a7aac9fd3c87d0605ff51b5854e7ca0174c1b43e8",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 333082,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH26D.FLX",
+      "offset": 42709637,
+      "stored_size": 324967,
+      "sha256": "d54f12d1d6627c6808bdc9c87cd568568a9b8ae690f2d5ec330da8765cb9e347",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 324967,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH27A.FLX",
+      "offset": 21774999,
+      "stored_size": 205484,
+      "sha256": "fcf66295c4cbba8671651bdd2e2652c77d0f12e6d540c3f0c0e8f39438937c8a",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 205484,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH27B.FLX",
+      "offset": 30178495,
+      "stored_size": 225865,
+      "sha256": "d871a7676ad0535265a753c1b9a9ae717c2d3c1b17409ae08ef6def50f2da5cd",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 225865,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH27C.FLX",
+      "offset": 38736381,
+      "stored_size": 256877,
+      "sha256": "c5cc4731b08089bab61e09058ed9ca28aca31bffcb0fe04d52cb8ec839a83520",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 256877,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH27D.FLX",
+      "offset": 49138912,
+      "stored_size": 297930,
+      "sha256": "81dacbabf96bb3f1c1c7c54567160041638185a069125954fce5a0234557fc27",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 297930,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH28A.FLX",
+      "offset": 17270099,
+      "stored_size": 220180,
+      "sha256": "0f99bf9cd7f2c007d88635f1569c600b20bc2d7dce1861a2fad9953227d7def9",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 220180,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH28B.FLX",
+      "offset": 29958319,
+      "stored_size": 220172,
+      "sha256": "7bf8d7a7798d42b0f35f06d77659a69f738521480a74f52ca6e4fbc5491f0bd4",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 220172,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH28C.FLX",
+      "offset": 38993262,
+      "stored_size": 169376,
+      "sha256": "86bb42fd878e3b59b1214da019f7b70233bb4edbeafa046ca9cd3e26fb7c1c4e",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 169376,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH28D.FLX",
+      "offset": 49823919,
+      "stored_size": 237071,
+      "sha256": "b92673c9e54cd4658a0967b58281df944be78e32d156c09870d1de5ba97d2cdb",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 237071,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH29A.FLX",
+      "offset": 21980487,
+      "stored_size": 332662,
+      "sha256": "22ec6039c829afa687514bc290b79e97e1d3fa952842f7da8d7bffe688646b46",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 332662,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH29B.FLX",
+      "offset": 30404364,
+      "stored_size": 401567,
+      "sha256": "97140bb81b7bdbf16a5fe306e04b18ac3892184df98775613ea9c89e512198ec",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 401567,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH29C.FLX",
+      "offset": 39162642,
+      "stored_size": 436890,
+      "sha256": "02eca00cf7df38300613625537f03ae4b9bdba87cc60c6299db011d7f9938d73",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 436890,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH29D.FLX",
+      "offset": 49436846,
+      "stored_size": 387069,
+      "sha256": "df8e10b88815ce08d3cddea2d397770e3dfa4fd629f087ddfeb581abf0bcb2a9",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 387069,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH30A.FLX",
+      "offset": 16961744,
+      "stored_size": 308351,
+      "sha256": "ac81f29b3047b777d4bd64d523424ab504a2a52352b769b6416a5b507d2ed61e",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 308351,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH30B.FLX",
+      "offset": 25694054,
+      "stored_size": 302611,
+      "sha256": "6f4cf35537f33110f6fb9201ff5a844917a60ddbd44ffa1374b1f165df0abdeb",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 302611,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH30C.FLX",
+      "offset": 33928851,
+      "stored_size": 315516,
+      "sha256": "21c0bcacf00ceefb23b00c9d6fc5f6f5cc9c59676e7e353ed0e3215f1e4a1aa1",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 315516,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH30D.FLX",
+      "offset": 43972817,
+      "stored_size": 221373,
+      "sha256": "323dce7049dd40b0d43724d00bc0ad5787a13af7569da5e31b76232c8393f2bf",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 221373,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH99A.FLX",
+      "offset": 20346190,
+      "stored_size": 99011,
+      "sha256": "535183689957bb9aab0fad68a35c14b4728dc81492b00157054afd320082dd88",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 99011,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH99B.FLX",
+      "offset": 24131754,
+      "stored_size": 235797,
+      "sha256": "74d2a577e1172fa13dcb01deb8dc15c8d608a454b5763d999fb87ebff44c0802",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 235797,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH99C.FLX",
+      "offset": 37571133,
+      "stored_size": 347541,
+      "sha256": "29264d0ea8d3f6000d5abe7afc1c1b4086890d8b7cb4388f4620f5d150baa127",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 347541,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BGMSH99D.FLX",
+      "offset": 48280713,
+      "stored_size": 340860,
+      "sha256": "9b2757f21a2fed7e73480aa8126168df153535b184709cdc717fe527ede7d011",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 340860,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 112,
+        "height": 112,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BG_100A.FLX",
+      "offset": 79240731,
+      "stored_size": 1308379,
+      "sha256": "a5bdee5147413b12ca19ca03ef61effc608360eb1bf89edf2cbc8398f8e00964",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1308379,
+        "magic": "0xaf20",
+        "frames": 120,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BG_101A.FLX",
+      "offset": 80549114,
+      "stored_size": 1386645,
+      "sha256": "33b28621919f2d4b51cb662f194625199c6c0ab767d5a66aa1afcccbc174f45c",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1386645,
+        "magic": "0xaf20",
+        "frames": 120,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BG_102A.FLX",
+      "offset": 89765292,
+      "stored_size": 1586835,
+      "sha256": "d308fb23b877257af57294eeb15d5321e0e43195f516f07248c4aa1acd3f46cc",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1586835,
+        "magic": "0xaf20",
+        "frames": 120,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BG_103A.FLX",
+      "offset": 81935763,
+      "stored_size": 1512517,
+      "sha256": "c57ac22c8555757017543676d0352f12eb38baa90b3829fbbd84e1da0e50ad3b",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1512517,
+        "magic": "0xaf20",
+        "frames": 120,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BG_104A.FLX",
+      "offset": 83448284,
+      "stored_size": 1260785,
+      "sha256": "28350a12ebae9974b808ec931dffa773a31337905b6c6911f61d173dbafe047e",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1260785,
+        "magic": "0xaf20",
+        "frames": 120,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BG_105A.FLX",
+      "offset": 56297375,
+      "stored_size": 1395083,
+      "sha256": "913090ea00a3eda8adb4b1edf6c8c4811d42406332dd6c848c97affc14c4ab97",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1395083,
+        "magic": "0xaf20",
+        "frames": 120,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BG_106A.FLX",
+      "offset": 70123001,
+      "stored_size": 1258325,
+      "sha256": "0bd0d4b87e7063227f103d83b92bb25436e0c34037984942d24f72e273f9c5fe",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1258325,
+        "magic": "0xaf20",
+        "frames": 120,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BG_200A.FLX",
+      "offset": 86473045,
+      "stored_size": 1374903,
+      "sha256": "4a32c6debb4865c67b58a17a8aaececd9f582d5db04aabe4d4c0f9e659ad5eb2",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1374903,
+        "magic": "0xaf20",
+        "frames": 120,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BG_201A.FLX",
+      "offset": 77727673,
+      "stored_size": 1513054,
+      "sha256": "7bb6a603dac5c51f8511b14200b71348ee493b16c687341775469b519a3c33f4",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1513054,
+        "magic": "0xaf20",
+        "frames": 120,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BG_202A.FLX",
+      "offset": 71381330,
+      "stored_size": 1349441,
+      "sha256": "099da07363714707db89341376c7960ea2081d5ef41b59216de6d7b0887923d6",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1349441,
+        "magic": "0xaf20",
+        "frames": 120,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BG_203A.FLX",
+      "offset": 72730775,
+      "stored_size": 1537570,
+      "sha256": "4fb313fd97076561ca3d25a33291332461e414302078b7fd82fc0c0eaa600f17",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1537570,
+        "magic": "0xaf20",
+        "frames": 120,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BG_204A.FLX",
+      "offset": 74268349,
+      "stored_size": 1508755,
+      "sha256": "0c4c0b10894b49c87276089be5dd4929c69ee143a320df47bbaf0eb8ea9afaad",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1508755,
+        "magic": "0xaf20",
+        "frames": 120,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BG_205A.FLX",
+      "offset": 57692462,
+      "stored_size": 1410335,
+      "sha256": "8b55dfb71d444cdd76840b222d1981ae118f5a3132a229a4e62ee90aa58234f6",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1410335,
+        "magic": "0xaf20",
+        "frames": 120,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BG_206A.FLX",
+      "offset": 59102801,
+      "stored_size": 1412950,
+      "sha256": "28eccaa451ea14919855f496c05759b72d264f4dc384b72f0524dcd11a0731d5",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1412950,
+        "magic": "0xaf20",
+        "frames": 120,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BG_207A.FLX",
+      "offset": 60515755,
+      "stored_size": 1233159,
+      "sha256": "c590a812af12635ad305796cc29797a17b8f0968bb0a083032f09a56d55fb909",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1233159,
+        "magic": "0xaf20",
+        "frames": 120,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BG_208A.FLX",
+      "offset": 61748918,
+      "stored_size": 1459840,
+      "sha256": "ccc874e187dda90a7d598a17f67cd61fead7eafa30f610811678d412cac90641",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1459840,
+        "magic": "0xaf20",
+        "frames": 120,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BG_209A.FLX",
+      "offset": 63208762,
+      "stored_size": 1284194,
+      "sha256": "c380c3c69e8e0d01df5637c51d1c8dabfab0532cb4929d61c851c62dc2fe51ec",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1284194,
+        "magic": "0xaf20",
+        "frames": 120,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BG_210A.FLX",
+      "offset": 84709073,
+      "stored_size": 1763968,
+      "sha256": "d418f6c05ef176945bb25d035f849354e5d5fdabeafe57c4af9f2fd2786a23c0",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1763968,
+        "magic": "0xaf20",
+        "frames": 120,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BG_211A.FLX",
+      "offset": 87847952,
+      "stored_size": 1917336,
+      "sha256": "00851a04cadb25db098c7cdb693d02d72065a988921ab5617679c988bf32e17a",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1917336,
+        "magic": "0xaf20",
+        "frames": 120,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BG_212A.FLX",
+      "offset": 64492960,
+      "stored_size": 1597329,
+      "sha256": "fca6e90804516a723ee99ff7705f604908da4044a3902f53fbee0d207735ac92",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1597329,
+        "magic": "0xaf20",
+        "frames": 120,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BG_300A.FLX",
+      "offset": 66090293,
+      "stored_size": 1975485,
+      "sha256": "16322d7f602f756d54fed1b10f82aa1bc80f59762fe60985b30c643c0c806690",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1975485,
+        "magic": "0xaf20",
+        "frames": 120,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BG_301A.FLX",
+      "offset": 75777108,
+      "stored_size": 1950561,
+      "sha256": "80e46f5fe326dedcaa1b25fbf8e46800d0554deac7a11825bd979de2aa183ab1",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1950561,
+        "magic": "0xaf20",
+        "frames": 120,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BG_302A.FLX",
+      "offset": 68065782,
+      "stored_size": 2057215,
+      "sha256": "bab2cb498fd172d4bb2bed3f3f665ecd0c62609fb7c861e1cbf6af6be57e3cf3",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 2057215,
+        "magic": "0xaf20",
+        "frames": 120,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "BRAIN2.FLX",
+      "offset": 129108319,
+      "stored_size": 1104621,
+      "sha256": "9659f2f762ba19e6bcf1eeb6fb085ca4f5a5272ab3b5dea109ae25a6d7b9fa90",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1104621,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "COMMSYS0.BMX",
+      "offset": 52775890,
+      "stored_size": 1434824,
+      "sha256": "931b644c2dfc9a017063cd0ca1c0fcbdbb103df0ab840f38310a52d3da476ca4",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "COMMSYS1.BMX",
+      "offset": 54210718,
+      "stored_size": 2086653,
+      "sha256": "1f03025c04adba642fd2979cd61ebda6eb1d40f6d2522d2e87cd60cdd3c0150e",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "COMMSYS2.BMX",
+      "offset": 51768473,
+      "stored_size": 1007413,
+      "sha256": "5a826c8a7c57c29a2718861f0959c78d0c35943c9a0c7e730d0c900c8b6c6405",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "CREDITS.FLX",
+      "offset": 153191779,
+      "stored_size": 4969437,
+      "sha256": "8a125810a6f8dbde246063b2a81d897f958d61066b8a93127894ab394b5e3941",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 4969437,
+        "magic": "0xaf20",
+        "frames": 1800,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "DEFENDER.FLX",
+      "offset": 151063418,
+      "stored_size": 2026180,
+      "sha256": "da4b322cdf3bd6e8c2f09837c49e1c65d97ce7e079e7b77f0d390b426122cb30",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 2026180,
+        "magic": "0xaf20",
+        "frames": 120,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "DESTROY.FLX",
+      "offset": 160893742,
+      "stored_size": 691774,
+      "sha256": "700a4643be9b07f544c62546cb1045bfc7af3050f0804dc49ce18d943af23b7f",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 691774,
+        "magic": "0xaf20",
+        "frames": 120,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "DIGI_347.WAX",
+      "offset": 116409710,
+      "stored_size": 220555,
+      "sha256": "3ec2591940786beb08d9ac57e2e663d62e2b80e9a4bd4f5f3a8226a7eeead099",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_348.WAX",
+      "offset": 116630269,
+      "stored_size": 220506,
+      "sha256": "405b2c5f0c8e012bb50b4b825c6006f2fa76f4f9991e7be1ff4f9c337f7b0677",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_425.WAX",
+      "offset": 116850779,
+      "stored_size": 1621315,
+      "sha256": "781af9a1b61d20f6cdf027845ee8d864e6c967a0f20f7a411723aa806abf80e3",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "HBASE.FLX",
+      "offset": 150963676,
+      "stored_size": 99738,
+      "sha256": "74886aab962d9c74aaa020e408a012e09412b56c0d63f5458c2049c3a56dc2a1",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 99738,
+        "magic": "0xaf20",
+        "frames": 31,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "ICEMOON.FLX",
+      "offset": 165047024,
+      "stored_size": 176640,
+      "sha256": "c26a4170e9ef7538ec2e3f23767aa237f47bd56d3fe356c08aa96d0809f1e7d7",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 128,
+        "magic": "0xaf20",
+        "frames": 209,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "INVADER.FLX",
+      "offset": 159748501,
+      "stored_size": 1145237,
+      "sha256": "158c5b34f4a9e21f6666ebf5dae4cfb508e296ae68607fd8a15a19f9a5b5a1b4",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1145237,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "JUGGERN.FLX",
+      "offset": 161585520,
+      "stored_size": 897868,
+      "sha256": "0209a33fe9922b4a1968a3eaec8e0727020d253f02a35e2dc84fc85f31ef0d70",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 897868,
+        "magic": "0xaf20",
+        "frames": 120,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "LOSER4A.FLX",
+      "offset": 113391006,
+      "stored_size": 191432,
+      "sha256": "50fd62ebabc114102fbd6cae9d26cb01a0440ce6dfa73e29f8935a739b1bb7d4",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 191432,
+        "magic": "0xaf20",
+        "frames": 15,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "LOSER4B.FLX",
+      "offset": 116343186,
+      "stored_size": 66520,
+      "sha256": "e2f089615d054c98efe598e91978c02d99e0f051424d4e211f74a6c53cfcf360",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 66520,
+        "magic": "0xaf20",
+        "frames": 20,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "LOSER4C.FLX",
+      "offset": 113582442,
+      "stored_size": 2760740,
+      "sha256": "66c275037fb8062365640a1b6912ddbe4b679a88d4fd176242b51be0528ff543",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 2760740,
+        "magic": "0xaf20",
+        "frames": 420,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "MONK.FLX",
+      "offset": 135440160,
+      "stored_size": 3372255,
+      "sha256": "c443618b8dd8bdcf5df48a9bf10774050e881847f1037e433223d987495e3d07",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 3372255,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "OGRE_ETC.FLX",
+      "offset": 164084426,
+      "stored_size": 718664,
+      "sha256": "f10796f8002da9ff47e68aa110dec1a939b821988fef964dc84ab08a781cb3a2",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 718664,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "OM3A.FLX",
+      "offset": 148411655,
+      "stored_size": 2552017,
+      "sha256": "550b19ff654d451c6359601ff463bd91f877bc99acbda66f6696edd6c4764610",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 2552017,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "OM4A.FLX",
+      "offset": 130347855,
+      "stored_size": 2764400,
+      "sha256": "80ff642df85a3668d29a4d715c329ac84c80e29a21f6b522ba66a9084bad3827",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 2764400,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PRE_ARAC.FLX",
+      "offset": 2549087,
+      "stored_size": 533473,
+      "sha256": "7db4d9506952b68029daeb1a952915ddd826402ae332f5fef501311803294283",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 533473,
+        "magic": "0xaf20",
+        "frames": 48,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PRE_CERE.FLX",
+      "offset": 3976,
+      "stored_size": 1437424,
+      "sha256": "d226136834725b03c8970ae418aaeb6e226436929781926c3b44c424a5e0eb14",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1437424,
+        "magic": "0xaf20",
+        "frames": 48,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PRE_DEFN.FLX",
+      "offset": 8711378,
+      "stored_size": 1104204,
+      "sha256": "947c87006ebb294461e3a9b6473401ec1cbf2d24b5dd25e2de7d7e01ff0f456c",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1104204,
+        "magic": "0xaf20",
+        "frames": 48,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PRE_DEST.FLX",
+      "offset": 9815586,
+      "stored_size": 1597432,
+      "sha256": "7e424179d306c0508bafdd438815f51c897fc1e27e242533fbbd06122a3ffd8b",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1597432,
+        "magic": "0xaf20",
+        "frames": 48,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PRE_GEN.FLX",
+      "offset": 1441404,
+      "stored_size": 1107679,
+      "sha256": "bd7613f2dd571f5e91c7b1f6d2ab545f95bd33233b4d2bf287f62ec79e996de7",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1107679,
+        "magic": "0xaf20",
+        "frames": 48,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PRE_GIAN.FLX",
+      "offset": 12415195,
+      "stored_size": 1244832,
+      "sha256": "573c17737d22138aaa72fe2c4a6283042ae84a03d5951e9844db52e2d6f2f90c",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1244832,
+        "magic": "0xaf20",
+        "frames": 48,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PRE_HAD.FLX",
+      "offset": 5399577,
+      "stored_size": 1147126,
+      "sha256": "67f953e970f06c8be8743f3cc035a85a351c1a76062fb09f6bf20200ccfb63e6",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1147126,
+        "magic": "0xaf20",
+        "frames": 48,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PRE_JUGG.FLX",
+      "offset": 7480302,
+      "stored_size": 1231072,
+      "sha256": "a8bf4aefa319dbdc12f36b824b9f69a5b214d3718350bb5665c34d8fd2715e1e",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1231072,
+        "magic": "0xaf20",
+        "frames": 42,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PRE_MALI.FLX",
+      "offset": 5087028,
+      "stored_size": 312545,
+      "sha256": "4bd6b838c7ac5b02475cb220f58e1c8de9423bd74a5b65e410801605769d1db7",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 312545,
+        "magic": "0xaf20",
+        "frames": 25,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PRE_NIH.FLX",
+      "offset": 6546707,
+      "stored_size": 933591,
+      "sha256": "188ed1bc542c38c809d51339cd2d6c1684be1aab0a5235211a1ef8ec7880e82a",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 933591,
+        "magic": "0xaf20",
+        "frames": 48,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PRE_OGRE.FLX",
+      "offset": 11413022,
+      "stored_size": 1002169,
+      "sha256": "978053ad699d98e17ef7f520eff2c74ed5a78fe331eb6e33583d0ed811e923c1",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1002169,
+        "magic": "0xaf20",
+        "frames": 49,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PRE_PARA.FLX",
+      "offset": 4284560,
+      "stored_size": 802464,
+      "sha256": "d06b874b620bc41fedb7218b3c0d99068c02cecffc283cff20a1269b0ab2de32",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 802464,
+        "magic": "0xaf20",
+        "frames": 42,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PRE_REMO.FLX",
+      "offset": 13660031,
+      "stored_size": 336637,
+      "sha256": "8bcbdd057fedcf599401145bbe4f0ad6cbe0e2fe1545de25a8439619abdcdf2f",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 336637,
+        "magic": "0xaf20",
+        "frames": 24,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PRE_SENS.FLX",
+      "offset": 3082564,
+      "stored_size": 414191,
+      "sha256": "3ecbcc1f4b3bce2fbc7901a111b7237440e59e36e47338088c15905b9022df3b",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 414191,
+        "magic": "0xaf20",
+        "frames": 23,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PRE_SHAD.FLX",
+      "offset": 13996672,
+      "stored_size": 666111,
+      "sha256": "166128b4ab0f5075a2f75ec18e5a7a9003495a98d3dff022e90a3a0d9fffb8ce",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 666111,
+        "magic": "0xaf20",
+        "frames": 48,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PRE_SPE.FLX",
+      "offset": 3496759,
+      "stored_size": 787797,
+      "sha256": "a0b4891335cad936e545967dd514d815efb45901ffadfb32716c39c4ef9531ad",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 787797,
+        "magic": "0xaf20",
+        "frames": 48,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PROMO1.FLX",
+      "offset": 91352131,
+      "stored_size": 184250,
+      "sha256": "742ba761ba6c8e0bc3c87e7d7303e48be59190da11ea81c791e1015660c02dc2",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 184250,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PROMO10.FLX",
+      "offset": 163473640,
+      "stored_size": 115916,
+      "sha256": "9c47289d79fa01bd132a0c238857985e6caac5deb0a4f6a1eb3f86ae059548d5",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 115916,
+        "magic": "0xaf20",
+        "frames": 89,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PROMO11.FLX",
+      "offset": 163589560,
+      "stored_size": 114355,
+      "sha256": "4169ba75f458384d3ac181e0024eb960ea3a2a93b724a0a65b3f7fcb9f1c0973",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 114355,
+        "magic": "0xaf20",
+        "frames": 89,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PROMO12.FLX",
+      "offset": 159644531,
+      "stored_size": 103966,
+      "sha256": "10d5417a0181c252d17a96569ebb821d7ab1cc712cb0e56770a6a19c3a3e44a6",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 103966,
+        "magic": "0xaf20",
+        "frames": 91,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PROMO13.FLX",
+      "offset": 153089602,
+      "stored_size": 102173,
+      "sha256": "3742f9c342e8bf26db8c712dfec4d82e1a32cde55caab447385ffc7e508b3ced",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 102173,
+        "magic": "0xaf20",
+        "frames": 91,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PROMO14.FLX",
+      "offset": 130212944,
+      "stored_size": 134907,
+      "sha256": "66542b163761764a77037d6ead369921fbe0b1b92bae42c1c6ea9f29548d3aa9",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 134907,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PROMO2.FLX",
+      "offset": 162724745,
+      "stored_size": 119395,
+      "sha256": "6b8649481f62bc2af93f6f133be79041ba00e90dc66a9064ddf0c0d8a07b37e6",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 119395,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PROMO3.FLX",
+      "offset": 162603327,
+      "stored_size": 121414,
+      "sha256": "939596ef0490bc94aac50891272a69bedd5c2fa999e28998dbfa22a628d375c2",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 121414,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PROMO4.FLX",
+      "offset": 162483392,
+      "stored_size": 119931,
+      "sha256": "a2cc4b37631864b25e1d81d00ae72c7651179a8bf7c35c54eceb0fd6cc9b7d22",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 119931,
+        "magic": "0xaf20",
+        "frames": 89,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PROMO5.FLX",
+      "offset": 164927089,
+      "stored_size": 119931,
+      "sha256": "a590192b6056453611c80c24d9c2f1695330d276acd1e1efbbe842956801fc1f",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 119931,
+        "magic": "0xaf20",
+        "frames": 89,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PROMO6.FLX",
+      "offset": 164803094,
+      "stored_size": 123991,
+      "sha256": "68a5ddc3be1462cc4df5ed0a4f91f1fba9e466a9eee0a4d28cad2bef9e75c53b",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 123991,
+        "magic": "0xaf20",
+        "frames": 89,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PROMO7.FLX",
+      "offset": 163113725,
+      "stored_size": 121192,
+      "sha256": "54b8024dbb00205b392a546278f3f5ec4ad2342bd6dbbafae1e3da35407671ad",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 121192,
+        "magic": "0xaf20",
+        "frames": 89,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PROMO8.FLX",
+      "offset": 163234921,
+      "stored_size": 120272,
+      "sha256": "60c93e81e64e325319ca155a50e582863b1a9f67728bb337d891d8c2f19e1729",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 120272,
+        "magic": "0xaf20",
+        "frames": 89,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PROMO9.FLX",
+      "offset": 163355197,
+      "stored_size": 118439,
+      "sha256": "68c5aaee77875d802ffe2a77711724c96b42f4e6f943d5e37beb1ef901ed1cf5",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 118439,
+        "magic": "0xaf20",
+        "frames": 89,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "PROTOS.FLX",
+      "offset": 91536385,
+      "stored_size": 922116,
+      "sha256": "524e732a01e5fe49a20c111bc0b0beaeb0bf49054efd2e43fa5b60da934f800e",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 922116,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "REM_SHAD.FLX",
+      "offset": 92458505,
+      "stored_size": 380503,
+      "sha256": "e634da7afe3a26cbb09acf27e03b5945ae046b476d22caf48afc2bd2e94ba3b8",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 380503,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "S1P1.BMX",
+      "offset": 118472098,
+      "stored_size": 167781,
+      "sha256": "8f31609430ce1d231662bfb40771ca528f91a65bb60822eff80670aba9eef7ec",
+      "pkx_wrapper": true,
+      "pkx_header_u32": [
+        268507494,
+        2611919567,
+        14,
+        167757,
+        247277
+      ]
+    },
+    {
+      "name": "S1P2.BMX",
+      "offset": 118639883,
+      "stored_size": 163741,
+      "sha256": "78a89d5b5f214bc6b07638a736f39c829ea389e25657837201836196fcac41ca",
+      "pkx_wrapper": true,
+      "pkx_header_u32": [
+        268507494,
+        2611919567,
+        14,
+        163717,
+        229521
+      ]
+    },
+    {
+      "name": "S1P3.BMX",
+      "offset": 118803628,
+      "stored_size": 182322,
+      "sha256": "8fa19480c39a3ed0f2707e0457de6a8586d9a62327efe36a4d78f540b69fe68a",
+      "pkx_wrapper": true,
+      "pkx_header_u32": [
+        268507494,
+        2611919567,
+        14,
+        182298,
+        246246
+      ]
+    },
+    {
+      "name": "S1P4.BMX",
+      "offset": 118985954,
+      "stored_size": 844628,
+      "sha256": "892e39c2926bc156ad1e1c28c28f12e6aa044d7df860eff33e3aa8fc52698544",
+      "pkx_wrapper": true,
+      "pkx_header_u32": [
+        268507494,
+        2611919567,
+        14,
+        844604,
+        1612726
+      ]
+    },
+    {
+      "name": "S1P5.BMX",
+      "offset": 119830586,
+      "stored_size": 168198,
+      "sha256": "deb3e15673da85617be4f7b456c6fd2c2ce44ab4a34909db254a2e4c81ed9eb5",
+      "pkx_wrapper": true,
+      "pkx_header_u32": [
+        268507494,
+        2611919567,
+        14,
+        168174,
+        241400
+      ]
+    },
+    {
+      "name": "S1P6.BMX",
+      "offset": 119998788,
+      "stored_size": 1522876,
+      "sha256": "64409766ac02a39ef54b851eb6f1bbbf6cd95176628425c93014ae25d8abb70e",
+      "pkx_wrapper": true,
+      "pkx_header_u32": [
+        268507494,
+        2611919567,
+        14,
+        1522852,
+        2165612
+      ]
+    },
+    {
+      "name": "S1P7.BMX",
+      "offset": 121521668,
+      "stored_size": 846896,
+      "sha256": "722b7d8f554d90d8573db2b91e6d7dd8a2511701ef0ec1405ec038c7b2047996",
+      "pkx_wrapper": true,
+      "pkx_header_u32": [
+        268507494,
+        2611919567,
+        14,
+        846872,
+        1332407
+      ]
+    },
+    {
+      "name": "S2P1.BMX",
+      "offset": 122368568,
+      "stored_size": 1139200,
+      "sha256": "afe53c90b7fb5e734649f93a4c946f86b3bd241d99ca353940c5e049fe8fe07c",
+      "pkx_wrapper": true,
+      "pkx_header_u32": [
+        268507494,
+        2611919567,
+        14,
+        1139176,
+        1659875
+      ]
+    },
+    {
+      "name": "S2P10.BMX",
+      "offset": 123507772,
+      "stored_size": 1220896,
+      "sha256": "49567345756f8bfdf79fffa57fa5fca9de7ab8c48c77a6d000199e4de34a60c7",
+      "pkx_wrapper": true,
+      "pkx_header_u32": [
+        268507494,
+        2611919567,
+        14,
+        1220872,
+        1750369
+      ]
+    },
+    {
+      "name": "S2P11.BMX",
+      "offset": 124728672,
+      "stored_size": 95170,
+      "sha256": "fff8ecc262e605d187d4779f51a6c84d05a2d895877233c7a4ed5117d5e354c0",
+      "pkx_wrapper": true,
+      "pkx_header_u32": [
+        268507494,
+        2611919567,
+        14,
+        95146,
+        159411
+      ]
+    },
+    {
+      "name": "S2P12.BMX",
+      "offset": 124823846,
+      "stored_size": 114799,
+      "sha256": "48f6020eaf413b2afcf60538e3a982b6f9390435aa7847ec78ea23a065280cbe",
+      "pkx_wrapper": true,
+      "pkx_header_u32": [
+        268507494,
+        2611919567,
+        14,
+        114775,
+        200829
+      ]
+    },
+    {
+      "name": "S2P13.BMX",
+      "offset": 124938649,
+      "stored_size": 126231,
+      "sha256": "6dba903801e4b59c58af023b154f360595da6af9c81c38e3609ea7ab7cae710d",
+      "pkx_wrapper": true,
+      "pkx_header_u32": [
+        268507494,
+        2611919567,
+        14,
+        126207,
+        184318
+      ]
+    },
+    {
+      "name": "S2P2.BMX",
+      "offset": 125064884,
+      "stored_size": 133336,
+      "sha256": "2f0668a82335e3db3d86b4cefc19a6d2835ddceab0ed39c509611144fc4f9791",
+      "pkx_wrapper": true,
+      "pkx_header_u32": [
+        268507494,
+        2611919567,
+        14,
+        133312,
+        175526
+      ]
+    },
+    {
+      "name": "S2P3.BMX",
+      "offset": 125198224,
+      "stored_size": 245870,
+      "sha256": "4c84854d1cf4083a495b737bf025b157eabdded7d54c93236bf08d07a02e35ca",
+      "pkx_wrapper": true,
+      "pkx_header_u32": [
+        268507494,
+        2611919567,
+        14,
+        245846,
+        350018
+      ]
+    },
+    {
+      "name": "S2P4.BMX",
+      "offset": 125444098,
+      "stored_size": 235344,
+      "sha256": "799a456d4253f28c372bc01f8c5ff88bf11eea9f033ed4970339b63265f83d3d",
+      "pkx_wrapper": true,
+      "pkx_header_u32": [
+        268507494,
+        2611919567,
+        14,
+        235320,
+        312943
+      ]
+    },
+    {
+      "name": "S2P5.BMX",
+      "offset": 125679446,
+      "stored_size": 140166,
+      "sha256": "aa188b2b5c9c53b9da0ac422d16b5e72d2bddaa7e82baca8874309be7c179a65",
+      "pkx_wrapper": true,
+      "pkx_header_u32": [
+        268507494,
+        2611919567,
+        14,
+        140142,
+        208441
+      ]
+    },
+    {
+      "name": "S2P6.BMX",
+      "offset": 125819616,
+      "stored_size": 173734,
+      "sha256": "ec9822b327056e5b5aa0b44f38571f277edb285bfb2ee9c93a08440f0716dbf1",
+      "pkx_wrapper": true,
+      "pkx_header_u32": [
+        268507494,
+        2611919567,
+        14,
+        173710,
+        223936
+      ]
+    },
+    {
+      "name": "S2P7.BMX",
+      "offset": 125993354,
+      "stored_size": 167071,
+      "sha256": "ac1d43e6b1429da5a48564cc4fd8b7eb890dcba61c1fa7a32c78cd7e09e8db1d",
+      "pkx_wrapper": true,
+      "pkx_header_u32": [
+        268507494,
+        2611919567,
+        14,
+        167047,
+        234697
+      ]
+    },
+    {
+      "name": "S2P8.BMX",
+      "offset": 126160429,
+      "stored_size": 973427,
+      "sha256": "802c6d1eba79ea78dff2fa7c5078b656335e728395d1cdc9bcdd599165f1b1bb",
+      "pkx_wrapper": true,
+      "pkx_header_u32": [
+        268507494,
+        2611919567,
+        14,
+        973403,
+        1666343
+      ]
+    },
+    {
+      "name": "S2P9.BMX",
+      "offset": 127133860,
+      "stored_size": 848434,
+      "sha256": "1ae515817c663bcf3fc0d16c264f6b4e5417d9a2c1601270b80c3b3a6b941f78",
+      "pkx_wrapper": true,
+      "pkx_header_u32": [
+        268507494,
+        2611919567,
+        14,
+        848410,
+        1312612
+      ]
+    },
+    {
+      "name": "S3P1.BMX",
+      "offset": 127982298,
+      "stored_size": 173812,
+      "sha256": "7843e7ca070f09cc09869ea636a14d126ff38887e0f79975ee526c2d080a6707",
+      "pkx_wrapper": true,
+      "pkx_header_u32": [
+        268507494,
+        2611919567,
+        14,
+        173788,
+        237048
+      ]
+    },
+    {
+      "name": "S3P2.BMX",
+      "offset": 128156114,
+      "stored_size": 194313,
+      "sha256": "e1cd062d17ee00c14b96872e81a4e1022ad5156064a867698848cbc6eef1e6d9",
+      "pkx_wrapper": true,
+      "pkx_header_u32": [
+        268507494,
+        2611919567,
+        14,
+        194289,
+        265006
+      ]
+    },
+    {
+      "name": "S3P3.BMX",
+      "offset": 128350431,
+      "stored_size": 757884,
+      "sha256": "0b9d343a1f54f9b84663a1d142189566ae72d683ed3b45fbf4cbac9b6043bdd8",
+      "pkx_wrapper": true,
+      "pkx_header_u32": [
+        268507494,
+        2611919567,
+        14,
+        757860,
+        1670085
+      ]
+    },
+    {
+      "name": "TAKEOFF.FLX",
+      "offset": 14662787,
+      "stored_size": 419334,
+      "sha256": "d46f0f18b57170c9603bd4d19717803d0ce848b9c87eecce0ff7c805fcd9d8ba",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 419334,
+        "magic": "0xaf20",
+        "frames": 121,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "TECH0.FLX",
+      "offset": 163703919,
+      "stored_size": 380503,
+      "sha256": "e634da7afe3a26cbb09acf27e03b5945ae046b476d22caf48afc2bd2e94ba3b8",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 380503,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "TECH1.FLX",
+      "offset": 162844144,
+      "stored_size": 269577,
+      "sha256": "a36e09f4c4feb71d57704784fc2e92f9c5631ff09f063a8040d699931c3c8126",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 269577,
+        "magic": "0xaf20",
+        "frames": 120,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "TUTOR3A.FLX",
+      "offset": 92839012,
+      "stored_size": 1328484,
+      "sha256": "4fac24c07e505a7056d260217bd1837a81d620dd44bf9f79963a873f60560107",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1328484,
+        "magic": "0xaf20",
+        "frames": 1000,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "TUTOR3B.FLX",
+      "offset": 94921651,
+      "stored_size": 2402745,
+      "sha256": "f445a2b964ce84230f8bc688425529d58bf115ed909f84cff8191b2ce463e97b",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 2402745,
+        "magic": "0xaf20",
+        "frames": 1500,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "TUTOR3C.FLX",
+      "offset": 97920263,
+      "stored_size": 4153928,
+      "sha256": "55b4697267c8b683b62a3a34d28b8780a838176999b8c34da113028363de559a",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 4153928,
+        "magic": "0xaf20",
+        "frames": 483,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "TUTOR3D.FLX",
+      "offset": 97326315,
+      "stored_size": 212960,
+      "sha256": "1da5c9e6a14e658345af5ad03c2eeb0ceea14ae9c7fa84a7d62b0d868378ddf0",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 212960,
+        "magic": "0xaf20",
+        "frames": 40,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "TUTOR3E.FLX",
+      "offset": 97539279,
+      "stored_size": 175772,
+      "sha256": "abb9e0f257cfb6fd32e1f75d930c60deb035548cb0e13c15f12775f240f4801d",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 175772,
+        "magic": "0xaf20",
+        "frames": 40,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "TUTOR3F.FLX",
+      "offset": 97715055,
+      "stored_size": 205204,
+      "sha256": "a92ec723c24b6de1ece3567e4a22316f49ea20897851cf47364cc5ddc779ba2a",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 205204,
+        "magic": "0xaf20",
+        "frames": 40,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "TUTOR3G.FLX",
+      "offset": 94167500,
+      "stored_size": 315850,
+      "sha256": "9e14d5d38362d46262661fe4b49a3f7b4a863f285ab63bd782f16a2c64cc0d1c",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 315850,
+        "magic": "0xaf20",
+        "frames": 40,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "TUTOR3H.FLX",
+      "offset": 94561520,
+      "stored_size": 360127,
+      "sha256": "5afac79699b6c69be185bff45ec8f75a653bb1cdcdeec2ce5cb0654b882b9f44",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 360127,
+        "magic": "0xaf20",
+        "frames": 40,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "TUTOR3I.FLX",
+      "offset": 94483354,
+      "stored_size": 78162,
+      "sha256": "5f2981d5fd5b2a8823952dbad6ffb8acc8a0ca1384db384d78ae5f9f7977bdc1",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 78162,
+        "magic": "0xaf20",
+        "frames": 40,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "TUTOR3J.FLX",
+      "offset": 97324400,
+      "stored_size": 1911,
+      "sha256": "d15c61d64c26030fec445b62dc72e22c37ca955b2f82b0e58d8d8a72618b56e6",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1911,
+        "magic": "0xaf20",
+        "frames": 20,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "WF1A.FLX",
+      "offset": 139048859,
+      "stored_size": 1578016,
+      "sha256": "1e686a7ee73c9f7e38747cbe521f8be409c6798d6765e0b3d0431fa2beecc8e4",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1578016,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "WHOOSH.FLX",
+      "offset": 15082125,
+      "stored_size": 1879615,
+      "sha256": "778741c943ee0bb4eb8ea4509965d87e2f338ced2655d02608d9761670b37d16",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1879615,
+        "magic": "0xaf20",
+        "frames": 61,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "WINNINGA.FLX",
+      "offset": 102074195,
+      "stored_size": 5619883,
+      "sha256": "8e1c63909cc6a672ec485d15184b989656aca4011e52113a03ed2932e34b73ea",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 5619883,
+        "magic": "0xaf20",
+        "frames": 392,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "WINNINGB.FLX",
+      "offset": 111924492,
+      "stored_size": 1466510,
+      "sha256": "d76a7dec0195a0548da18aebf449a990444898336270eb38484f0de05294c168",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1466510,
+        "magic": "0xaf20",
+        "frames": 60,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "WINNINGC.FLX",
+      "offset": 107694082,
+      "stored_size": 2982483,
+      "sha256": "7d69743e8015319869dad097109622968cb542827a361464355397634f3e0c45",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 2982483,
+        "magic": "0xaf20",
+        "frames": 199,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "WINNINGD.FLX",
+      "offset": 110676569,
+      "stored_size": 1247919,
+      "sha256": "b0ba360fe09ec0f70957e26090a92d3b6b4ea4680ed873cf9057349ff4ae93af",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1247919,
+        "magic": "0xaf20",
+        "frames": 91,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "WM6A.FLX",
+      "offset": 140626879,
+      "stored_size": 3099362,
+      "sha256": "c1068db44749dfb2e9306909386dca5fac5512b435ef37cc8fb8dcb0d86b76cd",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 3099362,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "WM7A.FLX",
+      "offset": 143726245,
+      "stored_size": 3208052,
+      "sha256": "23e912808f03d158fb2cb79385f9d0b5e0d444a7f4893c508a784253b5251f45",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 3208052,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "WM8A.FLX",
+      "offset": 146934301,
+      "stored_size": 1477350,
+      "sha256": "ebb4d47edeb6d01e547271bd707da0b6f02b2c6a3e851149a944bf4e32eeee24",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 1477350,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "WM9A.FLX",
+      "offset": 133112259,
+      "stored_size": 2327897,
+      "sha256": "8a6133632c1529272cc28fa5394c7fb76c85284c5ccc399743bc781106f8e5f0",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 2327897,
+        "magic": "0xaf20",
+        "frames": 90,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    }
+  ]
+}

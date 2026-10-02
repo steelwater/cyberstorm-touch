@@ -1,0 +1,2141 @@
+{
+  "file": "CYBDATA3.RBX",
+  "byte_size": 16805969,
+  "entry_count": 291,
+  "index_end": 4664,
+  "contiguous_payloads": true,
+  "extension_counts": {
+    ".BMX": 11,
+    ".FLX": 10,
+    ".WAX": 270
+  },
+  "entries": [
+    {
+      "name": "DIGI_012.WAX",
+      "offset": 10516988,
+      "stored_size": 74105,
+      "sha256": "4a18691f1b22b4480d9fd0285034e9dda5a583c5199cf3afc77cddb23b890329",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_013.WAX",
+      "offset": 10591097,
+      "stored_size": 96009,
+      "sha256": "d64bd73f778a7d51a9fa81d71e1107babc4a5d90388342216f91b72c4d59dabb",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_014.WAX",
+      "offset": 10687110,
+      "stored_size": 20162,
+      "sha256": "49f419c2504804a20d77a36a5df3a64efd62cf49e26864d7ae3bf8eb295490d4",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_015.WAX",
+      "offset": 10707276,
+      "stored_size": 20144,
+      "sha256": "cdb08935ae7664ac121aa1e14fccadefb4317ecbaf13bef427975ecea86d9146",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_016.WAX",
+      "offset": 10727424,
+      "stored_size": 9966,
+      "sha256": "11ed60347b96f968dd1ae99eef3568eaf18f0b27f73df040708474a4727e9734",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_017.WAX",
+      "offset": 10737394,
+      "stored_size": 28998,
+      "sha256": "b14f1e94048f925b0aa78620eb033f42108f63c5a7e321828a433db335b21706",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_018.WAX",
+      "offset": 10766396,
+      "stored_size": 18924,
+      "sha256": "6faa3b970b1b915592a4fd73c1ac979e07c3f8f66082745576a129f898050d9e",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_019.WAX",
+      "offset": 10785324,
+      "stored_size": 10000,
+      "sha256": "ea2eec9e727a30d2caecd8094d4fd38979c4531257fb46218a4b33d6be85a6de",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_020.WAX",
+      "offset": 10795328,
+      "stored_size": 24444,
+      "sha256": "37829bd794ff67b3a3d906738e99180c34cf74a22a02c3a02f020df3d0bcdbdb",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_027.WAX",
+      "offset": 10819776,
+      "stored_size": 6774,
+      "sha256": "f82d4c9d84bdcd2f962dcb186515067e48273046e8331ebacb6cebbf87e62d4d",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_031.WAX",
+      "offset": 10826554,
+      "stored_size": 8610,
+      "sha256": "46020501dc73d824f892da524f6001c05bf02b69c07e1484d61be92860436653",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_032.WAX",
+      "offset": 10835168,
+      "stored_size": 12266,
+      "sha256": "39731bde54071e0e0d2ab1ea83e1825696b9eab665561a3d6e7dce616e92b83a",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_038.WAX",
+      "offset": 10847438,
+      "stored_size": 32575,
+      "sha256": "ae869e6a2f81adaf84bea94346ecd413e59607df596caa77b8568e6e4d13753f",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_042.WAX",
+      "offset": 10880017,
+      "stored_size": 16407,
+      "sha256": "41c0b5f6f388a4b455bbcd9d5c5df9d234893348fcf12e014d2f72fa1bf22cf3",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_045.WAX",
+      "offset": 10896428,
+      "stored_size": 2512,
+      "sha256": "74d299cd49a24ba63a9499387106c685c05e7982299f5da4ac91a8e72548ebf3",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_054.WAX",
+      "offset": 10898944,
+      "stored_size": 28958,
+      "sha256": "25b6f7df83b9b83ba8b6b4104713f60b1b6ff9b292a359ecff16a0974711cc17",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_055.WAX",
+      "offset": 10927906,
+      "stored_size": 15198,
+      "sha256": "1afb43ea0db943f9f82a56e5be7a675933759eeba30ae1c186df82f18dc87308",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_056.WAX",
+      "offset": 10943108,
+      "stored_size": 18206,
+      "sha256": "a1a9c10063f1c826dc14c08f997f94a7329aa2884cf79e900562dcf1aa14260a",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_057.WAX",
+      "offset": 10961318,
+      "stored_size": 22398,
+      "sha256": "788e37eec3d8f2c39cc771cae1700fae81b58a706c730fb8eecdd45c0f6240ee",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_060.WAX",
+      "offset": 10983720,
+      "stored_size": 20254,
+      "sha256": "4a030151805a02e20fa2b40ce9a05636f8b8a9330ec7f7b633f7d04b7126e5b6",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_061.WAX",
+      "offset": 11003978,
+      "stored_size": 22366,
+      "sha256": "0a3832233a7edd5a57f2290f1666658f4c2a8abd70279cd568191aa8395d5074",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_062.WAX",
+      "offset": 11026348,
+      "stored_size": 24926,
+      "sha256": "ad094a7871f81a4fb47020ede46317035c7f8a2ba50d930647d8e25c141ed8e1",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_067.WAX",
+      "offset": 11051278,
+      "stored_size": 19710,
+      "sha256": "fa7507af38015241a5169e968efef1919c75defbdf180ace981257496f13eb8d",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_068.WAX",
+      "offset": 11070992,
+      "stored_size": 20926,
+      "sha256": "0cc60dfbeb00b83e1012a53bfc602b3568cf5d4c78e76202e956f02685db5bb8",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_069.WAX",
+      "offset": 11091922,
+      "stored_size": 21694,
+      "sha256": "295a7b82281f39cb589d3477a9544770a44a3741d3669734eef46f1c19c602f2",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_071.WAX",
+      "offset": 11113620,
+      "stored_size": 9470,
+      "sha256": "edabf4de8f904deb8a69b1c5f233fba5f7a3e45aa30c725b480c2fc39833c1e1",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_072.WAX",
+      "offset": 11123094,
+      "stored_size": 8158,
+      "sha256": "6c43a9f975ea69286419f55e51380b4f363fb5affa8536cef83cbd723b1ca1b9",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_073.WAX",
+      "offset": 11131256,
+      "stored_size": 7806,
+      "sha256": "d459eb70312a141e4ed9daf8ff040c6e08779b2f385f418a3d642bab2c70125b",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_074.WAX",
+      "offset": 11139066,
+      "stored_size": 8766,
+      "sha256": "98dce35b73fcdc6b2bd6ae07979eb8335b04b0dc4ba67deaa42174f407cd64da",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_075.WAX",
+      "offset": 11147836,
+      "stored_size": 8862,
+      "sha256": "e4060a204d82a4f20449dfbdb459f0a76260de90eedfc18726e26d0be8dbfb90",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_076.WAX",
+      "offset": 11156702,
+      "stored_size": 9374,
+      "sha256": "deaab23d63aa2b8effbd126ee7934e4e67c06f4c9cccfc8b38f1a91f9ab4f0c0",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_077.WAX",
+      "offset": 11166080,
+      "stored_size": 16446,
+      "sha256": "3255dc1c2e7a3ae6194c38dbd67ff6c58c1f8584c1c4308be768a4c7aa283586",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_087.WAX",
+      "offset": 11182530,
+      "stored_size": 18846,
+      "sha256": "9351a84d79e8b87084bf3cb174a188688903ca51e459b5f5428ab80322b35027",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_088.WAX",
+      "offset": 11201380,
+      "stored_size": 19678,
+      "sha256": "b25337b123a10cf03e037ebcb41f4bba6ba2aa67d85b95c68f342ea13a6b0f55",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_089.WAX",
+      "offset": 11221062,
+      "stored_size": 19038,
+      "sha256": "12d78cacf2f4741c4e681bc22885bd9872a0fb1a115857c907c09ddb21d89c7b",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_090.WAX",
+      "offset": 11240104,
+      "stored_size": 18494,
+      "sha256": "e616fa3da2d233881dc092437c5bbed0c06eb0012156f0bca80a3f84f3dee464",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_091.WAX",
+      "offset": 11258602,
+      "stored_size": 18366,
+      "sha256": "c522723e30bbbd5906995851c3f15cc254c7de6b9db90e4a456ebaa8d7458fc4",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_103.WAX",
+      "offset": 11276972,
+      "stored_size": 11646,
+      "sha256": "dc428172feb962899fe576c1779418cb26a5773f0e00d2bdd3b9a340a094e038",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_114.WAX",
+      "offset": 11288622,
+      "stored_size": 16510,
+      "sha256": "90d4a6e5907594537ec793c91d10eaa3a3e5791010c110f587651e8ede2a62c2",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_115.WAX",
+      "offset": 11305136,
+      "stored_size": 23614,
+      "sha256": "c82904d2ca29b815b2671b180ed2d37d523821c5b25492c6aa2787fb26a4aa83",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_119.WAX",
+      "offset": 11328754,
+      "stored_size": 15966,
+      "sha256": "c5dfd24de3ada188aa404bdebeceebcf526420871449fe16917a54f04892b6f2",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_122.WAX",
+      "offset": 11344724,
+      "stored_size": 7806,
+      "sha256": "b49fee1964d3ff9a229f107f40c7c5a02312aa0b50c33a490ae3f8d1c44ef29c",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_131.WAX",
+      "offset": 11352534,
+      "stored_size": 14654,
+      "sha256": "757c9ca40979ac5734cfee7bab54e783417d1b261875f508b9e58bfb267e086f",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_132.WAX",
+      "offset": 11367192,
+      "stored_size": 12150,
+      "sha256": "47f3a285ec05f5b6d535e2693fed443b9f0d3f168b92ef9d41e747a818e0b465",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_133.WAX",
+      "offset": 11379346,
+      "stored_size": 13982,
+      "sha256": "8b51364691a1271e20d0f3762caa028615e59fb149ce7d387718cee535792aa0",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_134.WAX",
+      "offset": 11393332,
+      "stored_size": 19390,
+      "sha256": "1cff2c8e45c373f0e6f55700db0af12f0cdc5a9ebb463a8c0d324a4b08523da1",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_135.WAX",
+      "offset": 11412726,
+      "stored_size": 19518,
+      "sha256": "54523892d5f7cd904933a5b922b10885e2796e13cddb8bcb7d6ef4c6923572b6",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_136.WAX",
+      "offset": 11432248,
+      "stored_size": 24094,
+      "sha256": "421399494fa71b7578d3fbe2090f4eb84c7c96cfa32b601c0c0de009def46aa9",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_137.WAX",
+      "offset": 11456346,
+      "stored_size": 14622,
+      "sha256": "62a7297b8b80b5287eeac0af95251ad387c608a26fff8f42d7a1a448c4532ea3",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_139.WAX",
+      "offset": 11470972,
+      "stored_size": 25630,
+      "sha256": "cd97a767a5f50de8856d2480a203d6e4e056cc8d837e1d0721184bbc948e69be",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_140.WAX",
+      "offset": 11496606,
+      "stored_size": 14686,
+      "sha256": "1668eb52d2382e58079d5b8cebe2e7f4f2694f25803b14fb83a7a698a0d1ae7f",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_141.WAX",
+      "offset": 11511296,
+      "stored_size": 39774,
+      "sha256": "a777b889832667499df81166ce9b8e5e3635c20c270a54ec8605e0563b5cb045",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_142.WAX",
+      "offset": 11551074,
+      "stored_size": 26974,
+      "sha256": "01d0604f8c34dd5182e86dc96890aded803cc3e3be133d8be8bb3e29184014e4",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_143.WAX",
+      "offset": 11578052,
+      "stored_size": 18750,
+      "sha256": "8fff64d8434441324dd971434ad2719263121d1be75a33109578b0d1324efb59",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_144.WAX",
+      "offset": 11596806,
+      "stored_size": 15902,
+      "sha256": "5c5aba0a7429a7a0ec24bc1ce9344734275b7db2b7b3a43982c614cf85437853",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_146.WAX",
+      "offset": 11612712,
+      "stored_size": 25054,
+      "sha256": "1e0ff379320bb587284208ae07745acbb4a7042be1b4ef641d8b520b12a0895f",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_147.WAX",
+      "offset": 11637770,
+      "stored_size": 22846,
+      "sha256": "563d02134c70761815fa91f4943ff5bce2dd4e7e4879381d5f6b4b4915817c65",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_148.WAX",
+      "offset": 11660620,
+      "stored_size": 11294,
+      "sha256": "341bc5e007d295a345d7e61c89fb6fa6fe778aa9fb5c8da8fecf312a9ef8014f",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_152.WAX",
+      "offset": 11671918,
+      "stored_size": 16606,
+      "sha256": "ca8510803a34d42459817b36de047033b20249289a785a75f0676813d0a5d958",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_153.WAX",
+      "offset": 11688528,
+      "stored_size": 12926,
+      "sha256": "364e37849fe214987db69ab369831e3ebb95c91b4ce54101a245ae01ebaeb137",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_154.WAX",
+      "offset": 11701458,
+      "stored_size": 21886,
+      "sha256": "eef1ad7065f9b41f46b4749a957d636013ab5bad10b0dff71033e0c88b0906a5",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_155.WAX",
+      "offset": 11723348,
+      "stored_size": 16862,
+      "sha256": "bc3a6b8716648adb27bc11f76195c0a00d0bf3bcd7d3ffcffec43469f71a9487",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_158.WAX",
+      "offset": 11740214,
+      "stored_size": 17502,
+      "sha256": "77fccb8ae00aa82a7df201c7d6e7baefb56c17288eded1ab04270d3589aa2b1e",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_160.WAX",
+      "offset": 11757720,
+      "stored_size": 19454,
+      "sha256": "db54827b75c0336dffc3fe8571a93e2db1de377ef75fa9d1f5b16e7b8054598f",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_163.WAX",
+      "offset": 11777178,
+      "stored_size": 18654,
+      "sha256": "f15db7df5dedc639923da9ef6e4edf66b91e861a56ab275dd5a7ef7de4f536e7",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_164.WAX",
+      "offset": 11795836,
+      "stored_size": 14238,
+      "sha256": "e01b12b9c26611ad6c5024a10efdab9a8cabe0bda6d942655dbe4ffeff49fdab",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_165.WAX",
+      "offset": 11810078,
+      "stored_size": 24702,
+      "sha256": "78039e7c027bddd60563041c78b48cadd6e7ea8d58f2a8cc10cfcad303215fc6",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_167.WAX",
+      "offset": 11834784,
+      "stored_size": 15678,
+      "sha256": "3d62b15c0bde12f7352b16faf4811bed52784018f64c4b13c04fd9d6397b68b1",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_168.WAX",
+      "offset": 11850466,
+      "stored_size": 31310,
+      "sha256": "b18a2a2f65405ee8e3350c3289f28e3b413ea1448e09ca2829eb25fe2e0e002b",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_169.WAX",
+      "offset": 11881780,
+      "stored_size": 11998,
+      "sha256": "0e9e210ebf0c58bd1b21e2a44e584e0cde490458e3d55d7a3784dc8fab5cc0bf",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_170.WAX",
+      "offset": 11893782,
+      "stored_size": 19454,
+      "sha256": "207fea59c044fb7ee1ac4a0458772f37492dd483d658573255e04b76c84b7797",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_171.WAX",
+      "offset": 11913240,
+      "stored_size": 21086,
+      "sha256": "47703b66b8b52c8a1a9a661adcf24fa8be4dd87bf758b1fff4f61464936d3840",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_174.WAX",
+      "offset": 11934330,
+      "stored_size": 13214,
+      "sha256": "112fdc39dcbcb66fe9ec171d436cb9ec15c6b8151bf6e4f9c12e4c26dde1ab66",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_175.WAX",
+      "offset": 11947548,
+      "stored_size": 10334,
+      "sha256": "06acd26d3af7780dc347478c9f757de05b21c1d13dd3663e18003eb2000aff75",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_176.WAX",
+      "offset": 11957886,
+      "stored_size": 13918,
+      "sha256": "f02692ba6b51d0fde60d59d44703c3825c2c92f87cdd85df13e7a426a6eae883",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_177.WAX",
+      "offset": 11971808,
+      "stored_size": 15262,
+      "sha256": "37cb47557dcabd36a508c2b2ee2ab3922beb048193e166c1063c97300dcf60b5",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_178.WAX",
+      "offset": 11987074,
+      "stored_size": 14302,
+      "sha256": "bbddd4907629b3243060e53cf1e5a348e092a950e596292a27b433a8f396eed5",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_179.WAX",
+      "offset": 12001380,
+      "stored_size": 15230,
+      "sha256": "a079397062e054740d96615f8a24cc2e24a28a8ee332cc04cf5da74b18083a56",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_180.WAX",
+      "offset": 12016614,
+      "stored_size": 15742,
+      "sha256": "8107dd7b113981d1300b8cf441bb6c36cc0e3dc47c098d06495d26157470e820",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_183.WAX",
+      "offset": 12032360,
+      "stored_size": 14302,
+      "sha256": "a501b9dc62faca71c0384bb0001d84d9e7942b1f125690cb4d2d7fb3323f6684",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_185.WAX",
+      "offset": 12046666,
+      "stored_size": 15870,
+      "sha256": "e3f39e8431718bce699f8efb5d1b80d5d3fcdb3a2a5f7d6c82825bebe8eb2a0b",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_187.WAX",
+      "offset": 12062540,
+      "stored_size": 13438,
+      "sha256": "1ea17bfadc9fdd738ea8f7bfda4ae04970d1c1547142f5d1c463f6f745562714",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_190.WAX",
+      "offset": 12075982,
+      "stored_size": 14718,
+      "sha256": "b468273db618f5d0daf60d930302099691cde629588c675f6085415117aa9424",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_191.WAX",
+      "offset": 12090704,
+      "stored_size": 12990,
+      "sha256": "9f500fc926fa754ccca15d80a7061b5b7b7515566aac1bd510a363931b176077",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_192.WAX",
+      "offset": 12103698,
+      "stored_size": 15774,
+      "sha256": "663362e335022393996d35c7e678c90e38ed00a753cafa027cd493ee6de253a1",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_193.WAX",
+      "offset": 12119476,
+      "stored_size": 13822,
+      "sha256": "6f403717638bcf5ac5b66c6cea8b8dc65aec3d4322d44a8f37dd98ff741254fb",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_194.WAX",
+      "offset": 12133302,
+      "stored_size": 10270,
+      "sha256": "4acb606d8f04b9364fe72a9c984594cec2c6c098038a84686a616fde81d6eccf",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_195.WAX",
+      "offset": 12143576,
+      "stored_size": 18590,
+      "sha256": "5611039d3e8e4f020170a20b86447210bcc47548e8500a5b30f5a32d665e0522",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_198.WAX",
+      "offset": 12162170,
+      "stored_size": 13022,
+      "sha256": "7897736a83417aada1122a9385adee128c7aefe4d6e2471fc129048f2635004e",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_199.WAX",
+      "offset": 12175196,
+      "stored_size": 12126,
+      "sha256": "c036ddfdd3b2d01ebe8991d5e03ac75a68a09df4d8736b60970c51464fc8c551",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_200.WAX",
+      "offset": 12187326,
+      "stored_size": 13662,
+      "sha256": "4cdaa452db5c6049f4bae572f0a2952e9be1cf764eaf361ecfdf05692a1b467f",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_201.WAX",
+      "offset": 12200992,
+      "stored_size": 14782,
+      "sha256": "52e28cc1464e9665460d02acc2c26d070ad5b0862dfd78cf9e729dc6747c860c",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_202.WAX",
+      "offset": 12215778,
+      "stored_size": 15870,
+      "sha256": "9bcf67b06dc6d91d44781b90764c717b78d9b3510bc58b52ac2f12cf496ea29a",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_203.WAX",
+      "offset": 12231652,
+      "stored_size": 12510,
+      "sha256": "3e12dad815c60600666f8b8b78d9d8eadc74fdb3ef73a1fc86eb246ebae01249",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_204.WAX",
+      "offset": 12244166,
+      "stored_size": 13662,
+      "sha256": "68865f946dc840d2a0228fcd3ae03d278181dc68e95136348c5b1ac4c74e15d2",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_205.WAX",
+      "offset": 12257832,
+      "stored_size": 11006,
+      "sha256": "e162bd684a6919efd53bff59af90ca21a3775707fa14b4b85e45879cdea89e07",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_206.WAX",
+      "offset": 12268842,
+      "stored_size": 13598,
+      "sha256": "b69388719cc2f5e6615917563ce0270708fb610b3684d1467860fb11987162c6",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_207.WAX",
+      "offset": 12282444,
+      "stored_size": 13310,
+      "sha256": "a6c7fa021314fed68825b7d5e4417f3b5daf8621a6d81c214eff542c10a095b3",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_208.WAX",
+      "offset": 12295758,
+      "stored_size": 15774,
+      "sha256": "e55d1bbe5100c19ee04090d9344cc408d66088fb6d5104df30dd4a198d07bdf3",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_209.WAX",
+      "offset": 12311536,
+      "stored_size": 18302,
+      "sha256": "d07c093c73bcff57d4b300378cd0ccd8a3b2d4e38621b99a35bdd59f2deab144",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_211.WAX",
+      "offset": 12329842,
+      "stored_size": 6398,
+      "sha256": "4152b61bce2f1f7c47f26d5a29eca774d64cbff05b3a2db300b1bfc3328138e8",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_213.WAX",
+      "offset": 12336244,
+      "stored_size": 9054,
+      "sha256": "999812908cb55670c806d03f2832b32483bdf6a08dffba530843d8a286ad1fd6",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_217.WAX",
+      "offset": 12345302,
+      "stored_size": 17918,
+      "sha256": "d620c53fe80657c8d1d8cb5dd72197be6db75b3394b0e007aa8852a811b3dbe9",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_218.WAX",
+      "offset": 12363224,
+      "stored_size": 21342,
+      "sha256": "a44368553ddded45be6868c93638b454eab2181adfd66183803463ab667e9080",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_219.WAX",
+      "offset": 12384570,
+      "stored_size": 8510,
+      "sha256": "4e4e5ee7846477e413dfcc323f17ea3445ced7954b162a6eeaadb8da052be2a1",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_220.WAX",
+      "offset": 12393084,
+      "stored_size": 8926,
+      "sha256": "e0238462b76e5c064571f27ec61721bf59008c7df3197e1fd1739bfb18e8d72a",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_221.WAX",
+      "offset": 12402014,
+      "stored_size": 8670,
+      "sha256": "c5553630dacb7762a52b02d0e36c22f2f8fcd9ffbc6777c9357e1fd39f9fdfaa",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_222.WAX",
+      "offset": 12410688,
+      "stored_size": 9246,
+      "sha256": "0dc5fd7e2447438e811d3c26fff4bfdcb402f469c7e9f6718c696920c514bd46",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_223.WAX",
+      "offset": 12419938,
+      "stored_size": 9374,
+      "sha256": "0cffc18807b4681a44302b317cede7884d5fefb306af2cee16fbc0b2ef1caf8c",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_224.WAX",
+      "offset": 12429316,
+      "stored_size": 9214,
+      "sha256": "e2e7c1e8d79410af767acf13af4eb7eaaa89ec2e78137114c24ebdd2d25ac5fa",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_225.WAX",
+      "offset": 12438534,
+      "stored_size": 8734,
+      "sha256": "cfb91dd2bcf17a6938b55e21be067d8b18cbd71059add6458751c4dbbc48bba6",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_226.WAX",
+      "offset": 12447272,
+      "stored_size": 8542,
+      "sha256": "1633ab20ecef150e7cbb7491e507d91004ad8ad35bf04e4423797a234eb950c4",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_227.WAX",
+      "offset": 12455818,
+      "stored_size": 9246,
+      "sha256": "960c4bd2a41f3ede33bdf21991b75747515860d94a4c4b00aa7f1ad1c6574fa4",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_228.WAX",
+      "offset": 12465068,
+      "stored_size": 9566,
+      "sha256": "4bb642a4b6b105d8537fe3ca65cb930ab3760203b492dbe541ef88c8a8f76ba3",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_229.WAX",
+      "offset": 12474638,
+      "stored_size": 15326,
+      "sha256": "1b9d577ffd0575ec9cc9856bf254ec2cc8d40f5b8e5f0def08ae4ce583de4287",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_230.WAX",
+      "offset": 12489968,
+      "stored_size": 25214,
+      "sha256": "91dbbd8872ad063344f7cf956c0a19a2a38bd1ff6bc5d9482d99dc900c49f262",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_231.WAX",
+      "offset": 12515186,
+      "stored_size": 15465,
+      "sha256": "d380655e86784c79c8b3a354eb190d48a0d4b2cdee0455d94b0c4c3e3dabf8c9",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_232.WAX",
+      "offset": 12530655,
+      "stored_size": 10640,
+      "sha256": "304548b9fa97045f94718784177ec84be8e8a3dc30241b77733e2f08824d229a",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_233.WAX",
+      "offset": 12541299,
+      "stored_size": 14684,
+      "sha256": "2742861eb823ba4f3c3af679d16f8b7d84567d2931942bc04ca555a0e99686f6",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_234.WAX",
+      "offset": 12555987,
+      "stored_size": 53656,
+      "sha256": "3c955aabd1f4cf3a72f8157005c1a913e698e105319a5203d7e3c5629f7ea0a6",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_236.WAX",
+      "offset": 12609647,
+      "stored_size": 26566,
+      "sha256": "0255648f921e5ff04f9dcdb35421d50ee7a54b4fc65537d92cf9bc1002fa1426",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_237.WAX",
+      "offset": 12636217,
+      "stored_size": 28287,
+      "sha256": "2ab3898b9f43d240ee79be40613aef727b5ba7cacd582247f3f674cbae08fb26",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_238.WAX",
+      "offset": 12664508,
+      "stored_size": 19407,
+      "sha256": "1330d029e0c13345cae15c8625213178d74151164aaf32c8feb387292598c0a8",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_240.WAX",
+      "offset": 12683919,
+      "stored_size": 94878,
+      "sha256": "0ac339d4b9155a6f54dd54e3d680f76786a7fdea7dbb4961a24800e35b601108",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_241.WAX",
+      "offset": 12778801,
+      "stored_size": 11230,
+      "sha256": "68a5497bf804468cf25c34ef9e4604c5afd59abf32f2a96ff2971523083eff55",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_242.WAX",
+      "offset": 12790035,
+      "stored_size": 10947,
+      "sha256": "6c488341a11f922c846f55484e765a4ac1457584c1dae436a21bae0dfedde386",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_245.WAX",
+      "offset": 12800986,
+      "stored_size": 5654,
+      "sha256": "ec001b819ba41dd013a0d00c952b9868e29ffce808299e9f98fa2e49fe8a58f9",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_246.WAX",
+      "offset": 12806644,
+      "stored_size": 2285,
+      "sha256": "62734953ca228f6ebe0000310628411abbc636099e168ce97e99a8a5075ca7af",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_247.WAX",
+      "offset": 12808933,
+      "stored_size": 2665,
+      "sha256": "4fbe7a8ad87c3e4f8bdffc2c6e5279d25c2b15e0a49f05a80ee6c823ec5afcb3",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_248.WAX",
+      "offset": 12811602,
+      "stored_size": 10311,
+      "sha256": "ea6e72328cc9de16c2b66072291ab22ab3cb6a25569d437cb00d59c130a4b851",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_249.WAX",
+      "offset": 12821917,
+      "stored_size": 3506,
+      "sha256": "9c0409393530047b157c88236de2ab2d4fabe13d9bcaa53468824f7808d03201",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_250.WAX",
+      "offset": 12825427,
+      "stored_size": 4719,
+      "sha256": "a111ba6c81d2b179dea5951250065ee507431795b84e42109e8a4dee24b6a32d",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_251.WAX",
+      "offset": 12830150,
+      "stored_size": 3165,
+      "sha256": "a844007e62fce9d8789ee9bbcd1c2075327df3f1c64ca45de09bea9b77cfa33d",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_252.WAX",
+      "offset": 12833319,
+      "stored_size": 3105,
+      "sha256": "e6d076bef44dd7e542a3e04ee30b8f84a850931c837055211dfee50958d029bc",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_253.WAX",
+      "offset": 12836428,
+      "stored_size": 5280,
+      "sha256": "01ee50ef9d1dc5d6f019d06e822df5d1441873782b4334ca9598046b0eb8a7ad",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_254.WAX",
+      "offset": 12841712,
+      "stored_size": 4595,
+      "sha256": "fa286ea829b4320730f2ead35eb7c04bd283f82671f915bfba47b5cba8390b96",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_255.WAX",
+      "offset": 12846311,
+      "stored_size": 1446,
+      "sha256": "5dcbe4014c4f218d156805ae3aebddf237527b1fdf5d959399a8b17ba63e5fbb",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_256.WAX",
+      "offset": 12847761,
+      "stored_size": 1582,
+      "sha256": "0e1d1a3d8018a5baf7f1a9bd9a61be8bec144db9252224a3b4c3553a193228d3",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_265.WAX",
+      "offset": 12849347,
+      "stored_size": 9599,
+      "sha256": "b6988e6a75c3de78e57b61718221b3fcee3a40f5fbdedddaed1bfd8e13142cd3",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_272.WAX",
+      "offset": 12858950,
+      "stored_size": 7470,
+      "sha256": "447ae27eb0eca5315064166850129479a38949444f1b08b06d9700e9114b3187",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_273.WAX",
+      "offset": 12866424,
+      "stored_size": 8050,
+      "sha256": "4f49bb43fccb8a2f0abc4c55a262f58fead62cefa8e451d3b4932324f81bd5a9",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_275.WAX",
+      "offset": 12874478,
+      "stored_size": 7995,
+      "sha256": "c16670ddd417ae29d7bf1e6ff5efd07efa87e36f8c197c30be73ab446296d0ee",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_276.WAX",
+      "offset": 12882477,
+      "stored_size": 4756,
+      "sha256": "7b52efc7f617f7e99cff61e9854924677154f5dcf7a0f4c48e400f1b6638a9f2",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_277.WAX",
+      "offset": 12887237,
+      "stored_size": 43945,
+      "sha256": "a0276c87431ea5f025c6df984588d17cb5dc9d120a956b6a31b38cba6b65c45f",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_278.WAX",
+      "offset": 12931186,
+      "stored_size": 54697,
+      "sha256": "557abd8f8450bfc9a1122dc64159ad1499e35671a95a657cb7ceb8256bf6181d",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_279.WAX",
+      "offset": 12985887,
+      "stored_size": 52393,
+      "sha256": "440779cda11e58fd2f200d588b93d4fdf1ad583f1e6fc7808f675a067b4c3613",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_280.WAX",
+      "offset": 13038284,
+      "stored_size": 42281,
+      "sha256": "41cd0286d6e87c4d5418b51cbc34e575b46ab0d089657ec81f84f14dbcf91d0a",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_281.WAX",
+      "offset": 13080569,
+      "stored_size": 56745,
+      "sha256": "b9b256b5355ef0264335b3c08a1de266c90f28468e87d53b1dabc1d8fee71e79",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_282.WAX",
+      "offset": 13137318,
+      "stored_size": 49577,
+      "sha256": "083899c14f25d1c35338cb7e0553f5406e888341f4881c26fef80be49cb37a90",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_283.WAX",
+      "offset": 13186899,
+      "stored_size": 28201,
+      "sha256": "6dfe1ab0458ad4bb05e0cfb49b357bdc42371f36fa9fcd3c66ff11661d655f0d",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_284.WAX",
+      "offset": 13215104,
+      "stored_size": 41897,
+      "sha256": "200a6c28ad6e4c9a89d1a4713e2807dd0e760520d177c8602d922c8044e2dae6",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_285.WAX",
+      "offset": 13257005,
+      "stored_size": 67230,
+      "sha256": "783051ff50f9b54670e92f6bcfde70ab8f32ac665478e602413461c99ea08ff2",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_286.WAX",
+      "offset": 13324239,
+      "stored_size": 31486,
+      "sha256": "66d0ab04908502910fab353579378054c825f73beb134029f006e1e9f55353fc",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_287.WAX",
+      "offset": 13355729,
+      "stored_size": 48430,
+      "sha256": "61fd8f70654504208a0aa22dcd2432af73e5bc08b66915454741a795cafd8173",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_288.WAX",
+      "offset": 13404163,
+      "stored_size": 7198,
+      "sha256": "e89ed4803e61dd9ef4f3f255f4009991cbf7518fddf6005f964c8fa47a39f9c7",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_289.WAX",
+      "offset": 13411365,
+      "stored_size": 9822,
+      "sha256": "84953c5015c93da38e62ddd42221ff97ad055e55a843f904f2c994d492d5cd49",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_290.WAX",
+      "offset": 13421191,
+      "stored_size": 8830,
+      "sha256": "f3b5484f3f8ff2259ba95f103445dc0e5544e0fb169b592e29acf5145561d46f",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_291.WAX",
+      "offset": 13430025,
+      "stored_size": 9150,
+      "sha256": "218c0388d058a2dc4e86e56cd77c73c106e853a8ac569918822e0082d8f31259",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_292.WAX",
+      "offset": 13439179,
+      "stored_size": 7838,
+      "sha256": "cf6be91ed805ea1f8f8b07587906f594f39d606fc9df7dc750158e21ad214b68",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_293.WAX",
+      "offset": 13447021,
+      "stored_size": 8542,
+      "sha256": "0b6fd04983c9276c85113e9d4cb6535ae3ef160c5bdea62419051967c619a9f0",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_294.WAX",
+      "offset": 13455567,
+      "stored_size": 7518,
+      "sha256": "d2deba1a8104767a6cbbff23f2fc47cb861bce430a595a928183090717ab7be3",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_295.WAX",
+      "offset": 13463089,
+      "stored_size": 7358,
+      "sha256": "b4ee51fcc3d5afd52107dfb46856e57fd39a090286854aa3de1b1a00315b200b",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_296.WAX",
+      "offset": 13470451,
+      "stored_size": 8222,
+      "sha256": "c3576f051d6eb2c7f792548219ee8d2e08c1a0332bdf98daeb6f1945e079bcd7",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_297.WAX",
+      "offset": 13478677,
+      "stored_size": 8894,
+      "sha256": "979795927550304e17aabfea9a89584f027ab1ba11dfa0bd3f338fca2b807e73",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_298.WAX",
+      "offset": 13487575,
+      "stored_size": 8094,
+      "sha256": "7f2f12fedd65026e6654c1483e324bdf3e6e6a941b18b03aa2127c4bcf7768c7",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_299.WAX",
+      "offset": 13495673,
+      "stored_size": 8222,
+      "sha256": "f2400952e69b9e7e70743937766d96326d2f86f96ae4761f6284012deac7403c",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_300.WAX",
+      "offset": 13503899,
+      "stored_size": 7134,
+      "sha256": "5a5ff75eeda95c1d555f6e4d0c5f354e35687df87d4b86b5148047b38f00343d",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_301.WAX",
+      "offset": 13511037,
+      "stored_size": 8126,
+      "sha256": "a938be682516f04665b0b09cf4274926536e866e1fb4381643da288e8d406ba7",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_302.WAX",
+      "offset": 13519167,
+      "stored_size": 8958,
+      "sha256": "32307818bf0ec4f6c913ae2eef5318bfcdc966a9964c093063aa68e385ec3c95",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_303.WAX",
+      "offset": 13528129,
+      "stored_size": 7230,
+      "sha256": "f46d0da63138b7fbfc4341bc41c50b0645a8a86679063f31d3276ee41ccbb5eb",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_304.WAX",
+      "offset": 13535363,
+      "stored_size": 7102,
+      "sha256": "d29b4aef00898d0ecb8552865ba8e470304ccfeb39ae5777530b273147894e98",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_305.WAX",
+      "offset": 13542469,
+      "stored_size": 8606,
+      "sha256": "975dc885d65822469776a5b020ecca76a1b3cc75727b1b8a01012e07d9f6acc1",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_306.WAX",
+      "offset": 13551079,
+      "stored_size": 8958,
+      "sha256": "32307818bf0ec4f6c913ae2eef5318bfcdc966a9964c093063aa68e385ec3c95",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_307.WAX",
+      "offset": 13560041,
+      "stored_size": 7902,
+      "sha256": "c4672ceaed197038a21c16cc7fa219c4823b23233b9ced16f49870880edf65c6",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_308.WAX",
+      "offset": 13567947,
+      "stored_size": 7902,
+      "sha256": "f702b547bcedef3d772b17923ab6261126ba8bdc4ad8deb0abf451919aeead34",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_309.WAX",
+      "offset": 13575853,
+      "stored_size": 8606,
+      "sha256": "975dc885d65822469776a5b020ecca76a1b3cc75727b1b8a01012e07d9f6acc1",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_310.WAX",
+      "offset": 13584463,
+      "stored_size": 8318,
+      "sha256": "f1bd77ced4197ddad4f9204851dbacd2badd01b4f7966ef4aa54461c5e2b63e5",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_311.WAX",
+      "offset": 13592785,
+      "stored_size": 7454,
+      "sha256": "d61e3a064038982a60a805350a1eaeee0f65706531d22f5a9e6e12ea3c670ffa",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_312.WAX",
+      "offset": 13600243,
+      "stored_size": 9327,
+      "sha256": "87eec02ad905cfd9f468a4d96d20c2556812feae155933a80a4398a53368718f",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_313.WAX",
+      "offset": 13609574,
+      "stored_size": 11358,
+      "sha256": "6df1aaf5b0010ee1d12028ecf2f1d237e158753c5bccd4d17ace18708b860c2c",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_314.WAX",
+      "offset": 13620936,
+      "stored_size": 8766,
+      "sha256": "1cce21de02a6c008140d079bf84bcc5d4e0859036f184d87d7cb7619ae976384",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_315.WAX",
+      "offset": 13629706,
+      "stored_size": 8382,
+      "sha256": "6259be444babd8685f4dd90e325db07047bf378f08d79175e8f39c499d41bfab",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_316.WAX",
+      "offset": 13638092,
+      "stored_size": 8862,
+      "sha256": "a11be925a2d12d71e3ed04f5888926680a8b3f4a113a83ccb66a0c7e02091cb6",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_317.WAX",
+      "offset": 13646958,
+      "stored_size": 8958,
+      "sha256": "c5fc18e0cb4354daf41facae70fb4a3eed3116d665b7a472579db2f89cb4242c",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_318.WAX",
+      "offset": 13655920,
+      "stored_size": 8094,
+      "sha256": "2546450336e400bc1e32d439ebff19064928a47d7eabe61b0cbdd715cb37b908",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_319.WAX",
+      "offset": 13664018,
+      "stored_size": 8862,
+      "sha256": "199265fb184e044a70b494e848f05c599208d1f1faa773a56a52af944fa2a923",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_320.WAX",
+      "offset": 13672884,
+      "stored_size": 9342,
+      "sha256": "a64a7591039d3db191717fcc5b3c202420878900e4a65198c58df09a2592a066",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_321.WAX",
+      "offset": 13682230,
+      "stored_size": 7038,
+      "sha256": "c10aba7f35e606a9216ded70c7e86f3df9122f1da22f0d97d54bf2dfc2d4ca45",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_322.WAX",
+      "offset": 13689272,
+      "stored_size": 8606,
+      "sha256": "971e12a5153e02062464a0ee2ad0e62c72591c184ebff5741ff5e1c250d0c3c2",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_323.WAX",
+      "offset": 13697882,
+      "stored_size": 6974,
+      "sha256": "0d49183c5ace6ce08e7f6fa8d6cc5881c94aab0d749d4a29272524e085e59726",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_324.WAX",
+      "offset": 13704860,
+      "stored_size": 9502,
+      "sha256": "37ffbbda2159a8cfa9768d1c0205fac7c96fcf9bb0a8ce6dc4b43fece1f41d80",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_325.WAX",
+      "offset": 13714366,
+      "stored_size": 10782,
+      "sha256": "3679f461763ac5777539a48974343f87383a00170e82f07b3db98a9022ecda6b",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_326.WAX",
+      "offset": 13725152,
+      "stored_size": 9694,
+      "sha256": "e0ce566f20afc0c78b303635b71e1453e41ab5cc4977544924720157fb857966",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_327.WAX",
+      "offset": 13734850,
+      "stored_size": 8926,
+      "sha256": "aa59674e42a1062c04cc0ccc1c7cbafc9a5be450f2c9d226698eebfd3e46a384",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_328.WAX",
+      "offset": 13743780,
+      "stored_size": 9566,
+      "sha256": "41bdb65e814895ce21c1cd91959977683291c3b74903e2b85362b0be40c3d5a3",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_329.WAX",
+      "offset": 13753350,
+      "stored_size": 10782,
+      "sha256": "3df47063bb8ceafdc56f5918244816534fbf8d780c2227fb825093001acbeadb",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_330.WAX",
+      "offset": 13764136,
+      "stored_size": 9982,
+      "sha256": "4262b50a3820ba11dc5a946d5a31aff6784f37af81196f680eafc618a24af25e",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_331.WAX",
+      "offset": 13774122,
+      "stored_size": 9118,
+      "sha256": "de01af3268cf9940a97231be0732d02e81c8be5b9c3e128fbf391fa502359cbe",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_332.WAX",
+      "offset": 13783244,
+      "stored_size": 9886,
+      "sha256": "849243bb95f5743a589658162d2da5f9c6bbbe3be496d50cf34af45c107ca933",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_333.WAX",
+      "offset": 13793134,
+      "stored_size": 8030,
+      "sha256": "40586d934a05c91a6fe10eebc117dd22f3aab9645d30203a835e252562966d02",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_334.WAX",
+      "offset": 13801168,
+      "stored_size": 8702,
+      "sha256": "9e8b611659b80dc6f7053cb20834eac80c5c66dae79d1a509111e835e7e3497c",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_335.WAX",
+      "offset": 13809874,
+      "stored_size": 9342,
+      "sha256": "23901af920ca863fece82def647d498ae4c8515a8dcf7f753dcd67d93d3aa196",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_336.WAX",
+      "offset": 13819220,
+      "stored_size": 8062,
+      "sha256": "6b09a82bef9c6634b671540dd886850935da54059ef635b87eb472520be430a6",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_337.WAX",
+      "offset": 13827286,
+      "stored_size": 7646,
+      "sha256": "224ac958dcab5d02403797abd8c05f31ccf1f9ae01a39bcfba9d17f3661b8c57",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_338.WAX",
+      "offset": 13834936,
+      "stored_size": 7550,
+      "sha256": "74724b9d665d03571a9a42ca5148379e540cfab6bbdb16eccd8817924e0a4c4c",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_339.WAX",
+      "offset": 13842490,
+      "stored_size": 8350,
+      "sha256": "f9710b542965c1db635304e90fd472a33f3af7373e21f90ac77e399cdf2b6b50",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_340.WAX",
+      "offset": 13850844,
+      "stored_size": 9278,
+      "sha256": "21e4d2eb46fe803eecbedbcdf1026b2ea81932e5a2ed26a4ab9c25e245baee9c",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_341.WAX",
+      "offset": 13860126,
+      "stored_size": 505566,
+      "sha256": "66bdaa9198b6d0b9e6d8eea52d778ce443385e16e156c5c2f49d84f0e992e6db",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_342.WAX",
+      "offset": 14365696,
+      "stored_size": 220524,
+      "sha256": "eb6239d87d4e29f0e31f6d8756531335d3584298d6fe327dcbeea88e8f13a572",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_343.WAX",
+      "offset": 14586224,
+      "stored_size": 217374,
+      "sha256": "54ec1defefd5dd5bde34c83ebc772384fb048de5b5cdb77e279c4137f46bb2a9",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_344.WAX",
+      "offset": 14803602,
+      "stored_size": 220636,
+      "sha256": "627749a07e8bf40f86afcc4cbf6acdd66317b89b2309a35f3b8ff2b9b840b6b9",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_345.WAX",
+      "offset": 15024242,
+      "stored_size": 220526,
+      "sha256": "509460ac09f726ec9bcbfd83ade8aa41976f1a283dfcf0ffda57052dd8815961",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_346.WAX",
+      "offset": 15244772,
+      "stored_size": 220469,
+      "sha256": "06c1c1047d68081851eaf039b2e7f871bc5452b090d5908ef71d624c27b496ca",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_349.WAX",
+      "offset": 15465245,
+      "stored_size": 15615,
+      "sha256": "ee619cbbc2ac9c1e9e357e056216508b807049522627d897f7ee0771a4ee5a36",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_351.WAX",
+      "offset": 15480864,
+      "stored_size": 68574,
+      "sha256": "bc52eb2343de65f596f9753790c776f07d0f195e005c1c2949ca5921e344a325",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_352.WAX",
+      "offset": 15549442,
+      "stored_size": 99388,
+      "sha256": "b57afc85ac6a27ca5c94824190eb092061ca4d5c5c9de9afb87e71988b12336b",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_353.WAX",
+      "offset": 15648834,
+      "stored_size": 20940,
+      "sha256": "03362752f1d597d31262119c2ca7f8a9e76860f688f778bfdcffa728b593f273",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_354.WAX",
+      "offset": 15669778,
+      "stored_size": 43386,
+      "sha256": "e2e5d05ee73920f5121d4c3517cda07c63781efba933dc9cd9cde3e66b404c65",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_355.WAX",
+      "offset": 15713168,
+      "stored_size": 7480,
+      "sha256": "85a5bf77d81d85b95578787ffb30f643ffcc8c0d996eb2cc8654aeb730be65de",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_358.WAX",
+      "offset": 15720652,
+      "stored_size": 33836,
+      "sha256": "2ad8aaf0563e571197bf7d3ee3076ee48e48a1c235651cfd8372534c5c24049d",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_360.WAX",
+      "offset": 15754492,
+      "stored_size": 40223,
+      "sha256": "ba53d70d8a784af95fe8cb258f5e6ec3fc7f9ca8b5d2a4b592237b7c1de662ee",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_361.WAX",
+      "offset": 15794719,
+      "stored_size": 50010,
+      "sha256": "9ddf403e370bbac904ae9285a324f9ada591202dc0bd8689f29114cb26090ddb",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_362.WAX",
+      "offset": 15844733,
+      "stored_size": 24390,
+      "sha256": "93c1142dd460c3985290fcfe37249b225b2e6e7134e0ba745db7edd3edf50693",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_364.WAX",
+      "offset": 15869127,
+      "stored_size": 8225,
+      "sha256": "b6d71385cb03183717f5b4cabd67f0f4afbb3c7aa644b7ef4c487be8d825c34e",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_365.WAX",
+      "offset": 15877356,
+      "stored_size": 10706,
+      "sha256": "f750113cfa28e0e58d672754a9cf7e1e7efd3c259dc13a6103f83b97e4a2c241",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_366.WAX",
+      "offset": 15888066,
+      "stored_size": 34692,
+      "sha256": "b040e1451a3671442d7ed43b9e1d17705f32c4763ebf63fc4d5820b8a84b2217",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_367.WAX",
+      "offset": 15922762,
+      "stored_size": 7667,
+      "sha256": "894c2b84d9e093f39bd5d2578768db1538ac9edc620550cd93b57eae3851672d",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_368.WAX",
+      "offset": 15930433,
+      "stored_size": 10204,
+      "sha256": "7bd4e2209facfa5f460044b78054c699cae5852eb2f38a916003da6ffabc030b",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_369.WAX",
+      "offset": 15940641,
+      "stored_size": 6444,
+      "sha256": "e77d2996734d2b2f24ae703d9cf901e8a8f164e74f023971718e724ba07762d6",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_370.WAX",
+      "offset": 15947089,
+      "stored_size": 8295,
+      "sha256": "97792dcc9c04c909d56d9bc3f3471efa510da075f4b443fa47c851450c9e63b9",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_371.WAX",
+      "offset": 15955388,
+      "stored_size": 8400,
+      "sha256": "4a03243b06c53b2819fb87674474490179e2493a0cf494dd07a8662c588764cc",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_372.WAX",
+      "offset": 15963792,
+      "stored_size": 8367,
+      "sha256": "a6a9c0a78e4b77ab17938c49ddf8fbb2dc82d3801609b1239485bfc47af86423",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_373.WAX",
+      "offset": 15972163,
+      "stored_size": 5993,
+      "sha256": "181c7363e48ad1e0314fd17e26c972a949e1ae06ee81d51162debaa9aa326862",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_375.WAX",
+      "offset": 15978160,
+      "stored_size": 18542,
+      "sha256": "e179030edeabf398d6ca9042ae1b03e0256db121f9c632d5a2420929d3402ad4",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_382.WAX",
+      "offset": 15996706,
+      "stored_size": 31270,
+      "sha256": "fefb42db32523484cc95d16a3e45efde7aa85c5939476dc20a91d012b0de9066",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_383.WAX",
+      "offset": 16027980,
+      "stored_size": 30390,
+      "sha256": "62a6a5becd93c8631ec9ca258dc575715b5d64d6af789d62f10b25eb4bb29cc8",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_384.WAX",
+      "offset": 16058374,
+      "stored_size": 11319,
+      "sha256": "5a9d8e66e1626f2a95e2a012971337bdc852560cde62f358c7170524000dcbb9",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_385.WAX",
+      "offset": 16069697,
+      "stored_size": 17785,
+      "sha256": "0a1ac8fb93189c63acf0c9f479d8230bbf777e1a928ed78a94b15f0644d9dfb2",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_386.WAX",
+      "offset": 16087486,
+      "stored_size": 57918,
+      "sha256": "e3b0c81fba9942ecea108005c3844bd5e75f49de8d3ae610936cfbc444fe965b",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_387.WAX",
+      "offset": 16145408,
+      "stored_size": 32106,
+      "sha256": "7a3097f2e1e6760c82fd1468249b734a67e8fc52b9b44ff4476a345b78392d8b",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_388.WAX",
+      "offset": 16177518,
+      "stored_size": 22889,
+      "sha256": "bf06808cffaf898f3f8c03a908cc469978d56ce5feb8b4a3a946ad9876e92891",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_389.WAX",
+      "offset": 16200411,
+      "stored_size": 7113,
+      "sha256": "d13f8636fe413f0d925ff8d75fa3a997d5d5ebb44a46b42dd84f91381613d723",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_390.WAX",
+      "offset": 16207528,
+      "stored_size": 1952,
+      "sha256": "2ab9dea7d2a8cbfc9c28ad97863f5daa650f4049cc70dd2a3583d70022a93fb7",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_391.WAX",
+      "offset": 16209484,
+      "stored_size": 97199,
+      "sha256": "b122eb1c5f62afa2df9ed91345e2714076b3cf451d2a91e3a53bd6d3b4f9f8f4",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_395.WAX",
+      "offset": 16306687,
+      "stored_size": 17198,
+      "sha256": "6150c66778c02191d293d48c421bc4407f8e4c85e04520bd0cce8b83673308f9",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_396.WAX",
+      "offset": 16323889,
+      "stored_size": 12914,
+      "sha256": "593f6c53cd90bd7698bf17bfe855e606067e8d23b102466fde8d95d4828684e4",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_397.WAX",
+      "offset": 16336807,
+      "stored_size": 16669,
+      "sha256": "c14ffeb248b47c92dfd8e1aed8cd0750f82bb4d457dc536b015cebe293519967",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_398.WAX",
+      "offset": 16353480,
+      "stored_size": 21934,
+      "sha256": "4c6334f1e8a216af1ac96db416bf978bd293a90b63d84d8b377bf455c6e5f74b",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_399.WAX",
+      "offset": 16375418,
+      "stored_size": 31437,
+      "sha256": "451be9cdd995a36499b8d3685cc98a14646cb83462aa6c1175c1b2b72a2ac346",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_405.WAX",
+      "offset": 16406859,
+      "stored_size": 49865,
+      "sha256": "d4a34a0d8e780c9d9901519f0f37ce7a4a72cb86402c50c44ac5730e71572ee0",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_406.WAX",
+      "offset": 16456728,
+      "stored_size": 36192,
+      "sha256": "0bd601fc854ef6e06344c8e9b88a5f9729d7cc8be93ce8a3b95174c74dbb6d6c",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_407.WAX",
+      "offset": 16492924,
+      "stored_size": 27575,
+      "sha256": "ee68e6e921aded26ee7119d6f65e2a38f5580bef68501189cfd431b4d1db4ea0",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_408.WAX",
+      "offset": 16520503,
+      "stored_size": 21062,
+      "sha256": "e27137555fe58d48aaa1cc933f842b6ad70d244814c60e9b939fd9824db82b4e",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_414.WAX",
+      "offset": 16541569,
+      "stored_size": 27584,
+      "sha256": "4797637873c5518e2bdff57d539471958a3c72be564a4ecf1ab7eae052a3cba0",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_417.WAX",
+      "offset": 16569157,
+      "stored_size": 11038,
+      "sha256": "1e11cbf86d74565768ba98cccc5e4afbcf6d70172d1f631c88f58c89f47e54f7",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_421.WAX",
+      "offset": 16580199,
+      "stored_size": 14240,
+      "sha256": "605bbf7422594e841b63244a28cbf13f2a4bd32b85fc14972928371ec70a26e3",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_426.WAX",
+      "offset": 16594443,
+      "stored_size": 3116,
+      "sha256": "a57b7ebc7be9fc46aaadc6854978f21717496c4c99f196675c4aee2792d0c80e",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_427.WAX",
+      "offset": 16597563,
+      "stored_size": 37474,
+      "sha256": "ad607b00300e5c4a3e9834d3fae98267567b7a3281e40b19647816c919a59905",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_428.WAX",
+      "offset": 16635041,
+      "stored_size": 14240,
+      "sha256": "605bbf7422594e841b63244a28cbf13f2a4bd32b85fc14972928371ec70a26e3",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_429.WAX",
+      "offset": 16649285,
+      "stored_size": 14240,
+      "sha256": "605bbf7422594e841b63244a28cbf13f2a4bd32b85fc14972928371ec70a26e3",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_430.WAX",
+      "offset": 16663529,
+      "stored_size": 14240,
+      "sha256": "605bbf7422594e841b63244a28cbf13f2a4bd32b85fc14972928371ec70a26e3",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_431.WAX",
+      "offset": 16677773,
+      "stored_size": 14240,
+      "sha256": "605bbf7422594e841b63244a28cbf13f2a4bd32b85fc14972928371ec70a26e3",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_432.WAX",
+      "offset": 16692017,
+      "stored_size": 14240,
+      "sha256": "605bbf7422594e841b63244a28cbf13f2a4bd32b85fc14972928371ec70a26e3",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_433.WAX",
+      "offset": 16706261,
+      "stored_size": 14240,
+      "sha256": "605bbf7422594e841b63244a28cbf13f2a4bd32b85fc14972928371ec70a26e3",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_434.WAX",
+      "offset": 16720505,
+      "stored_size": 14240,
+      "sha256": "605bbf7422594e841b63244a28cbf13f2a4bd32b85fc14972928371ec70a26e3",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_435.WAX",
+      "offset": 16734749,
+      "stored_size": 14240,
+      "sha256": "605bbf7422594e841b63244a28cbf13f2a4bd32b85fc14972928371ec70a26e3",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_436.WAX",
+      "offset": 16748993,
+      "stored_size": 14240,
+      "sha256": "605bbf7422594e841b63244a28cbf13f2a4bd32b85fc14972928371ec70a26e3",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_437.WAX",
+      "offset": 16763237,
+      "stored_size": 14240,
+      "sha256": "605bbf7422594e841b63244a28cbf13f2a4bd32b85fc14972928371ec70a26e3",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_438.WAX",
+      "offset": 16777481,
+      "stored_size": 14240,
+      "sha256": "605bbf7422594e841b63244a28cbf13f2a4bd32b85fc14972928371ec70a26e3",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DIGI_439.WAX",
+      "offset": 16791725,
+      "stored_size": 14240,
+      "sha256": "605bbf7422594e841b63244a28cbf13f2a4bd32b85fc14972928371ec70a26e3",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DMGHRC01.BMX",
+      "offset": 5418879,
+      "stored_size": 663860,
+      "sha256": "060fe35467412d054c124b98b8da803d1bc7c94eb766b9e8a79200a76251e856",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DMGHRC02.BMX",
+      "offset": 9465818,
+      "stored_size": 739003,
+      "sha256": "93913aaab702ae0754204dfe4a780613b279e4bd24ffabf80d1f27cb9782c5ad",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DMGHRC03.BMX",
+      "offset": 8165375,
+      "stored_size": 665272,
+      "sha256": "fde29b878e95feee6179d6a0676fdd88e0e79362a2170c9449701356715ba81c",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DMGHRC04.BMX",
+      "offset": 8830651,
+      "stored_size": 635163,
+      "sha256": "aa9d78acd812a732ddacb683a9bc9db534697e07ac0019f353877310834a88e9",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DMGHRC05.BMX",
+      "offset": 3718975,
+      "stored_size": 760300,
+      "sha256": "f0ce564cff1b775da198dba764cabf632eda6916f4f7bd2fbd7362401aa5c33a",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DMGHRC06.BMX",
+      "offset": 6082743,
+      "stored_size": 894770,
+      "sha256": "5a9d55dd117225e47c062afe9f34b65b5fc26929ad3229ae8d96338b093b27eb",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DMGHRC07.BMX",
+      "offset": 6977517,
+      "stored_size": 1187854,
+      "sha256": "c77f59ec5c2f23869105d2372de4417cdb95dacfde29ac4a44c79ed5eec4eb8a",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DMGHRC08.BMX",
+      "offset": 4479279,
+      "stored_size": 939596,
+      "sha256": "65a6b049331b0af700449effc38fc2c71b4087c5147db5b059e28aaa2c9478eb",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "DROP1.FLX",
+      "offset": 427923,
+      "stored_size": 732108,
+      "sha256": "61f600e4a832c469b8e23a3d7f0c7323150e65e233d626f9a1d15031dc130857",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 732108,
+        "magic": "0xaf20",
+        "frames": 190,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "GALAXY.BMX",
+      "offset": 10204825,
+      "stored_size": 312159,
+      "sha256": "664d2a90c8c304fa6bbfc80aba1c66161865d9749bc9cfbc3efc83ad1e40423c",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "MLEND.FLX",
+      "offset": 1160035,
+      "stored_size": 364284,
+      "sha256": "7cfae6308592eed3e390cc82a4baefdb2146892d0f78485f2cc812ccc2de0752",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 364284,
+        "magic": "0xaf20",
+        "frames": 31,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "MLSTART.FLX",
+      "offset": 1524323,
+      "stored_size": 352649,
+      "sha256": "c06f10b1a344df761a123c5dab4bf4c6bb0b3b9a7e4f7893d876e22829b68148",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 352649,
+        "magic": "0xaf20",
+        "frames": 31,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "MPL.BMX",
+      "offset": 4664,
+      "stored_size": 200980,
+      "sha256": "21ec6479ee064276e8a213dea082152ca6e4c7d94c6885574fb434d9ef32386c",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "MPLBG.FLX",
+      "offset": 205648,
+      "stored_size": 58575,
+      "sha256": "4436789e19c0666d46c1bc47ebdca0394015c7f6e835b6c2d3a80e7ea1477a5a",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 58575,
+        "magic": "0xaf20",
+        "frames": 112,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "QSTART.BMX",
+      "offset": 264227,
+      "stored_size": 163692,
+      "sha256": "5ce3bc67a937500f19dd8c881ebce6fb3699610a90b314b31ac6e8eff2616b16",
+      "pkx_wrapper": false
+    },
+    {
+      "name": "SBEND.FLX",
+      "offset": 2109851,
+      "stored_size": 241337,
+      "sha256": "05558b003a7c2c174ceb704eb30a763732c2b31fb03307a960f294a4a1fbc056",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 241337,
+        "magic": "0xaf20",
+        "frames": 32,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "SBSTART.FLX",
+      "offset": 1876976,
+      "stored_size": 232871,
+      "sha256": "5633943668d115423c0f37ded5d21d8eb1fe8bb324342be5019c359cb6e3ec32",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 232871,
+        "magic": "0xaf20",
+        "frames": 32,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "VATDOOR.FLX",
+      "offset": 3327320,
+      "stored_size": 192819,
+      "sha256": "fd6d8c9800feb223457767b04b800b9409a12bddf92c8bf99182377e206dfae7",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 192819,
+        "magic": "0xaf20",
+        "frames": 29,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "VDCLOSE.FLX",
+      "offset": 3520143,
+      "stored_size": 198828,
+      "sha256": "ce935550e6ec8feae1baa3f343276cdc3890921b7d380b185d1dbdab9adeed03",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 198828,
+        "magic": "0xaf20",
+        "frames": 29,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "VREND.FLX",
+      "offset": 2351192,
+      "stored_size": 495086,
+      "sha256": "2b0f7256ee7789e74876e749ce65bd46d8f628a27fc51ec4eae82a9a14b25a33",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 495086,
+        "magic": "0xaf20",
+        "frames": 32,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    },
+    {
+      "name": "VRSTART.FLX",
+      "offset": 2846282,
+      "stored_size": 481034,
+      "sha256": "00fc37fc60122cbad5cbcf9b6e482c0113e690093b418a53ee043cc3b9e0f2cf",
+      "pkx_wrapper": false,
+      "flx_header_candidate": {
+        "length": 481034,
+        "magic": "0xaf20",
+        "frames": 32,
+        "width": 640,
+        "height": 480,
+        "depth": 8,
+        "flags": 3
+      }
+    }
+  ]
+}
