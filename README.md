@@ -22,4 +22,7 @@ layout. No original executable is needed to run these probes.
 Keep installers, extracted data, dumps and decoded content under the ignored
 `installer/` or `local-research/` directories. Never add original game content to
 source control. Generated tests contain no game assets. Engine/runtime choices
-remain deferred. This workspace currently has no Git repository or remote.
+remain deferred. Milestone 1 development continues on `feature/milestone-1-asset-reader`.
+
+Original project code is licensed under GPL-3.0-only; see [LICENSE](LICENSE).
+This license grants no rights to the original game or its assets.
