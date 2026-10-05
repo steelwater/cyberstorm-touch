@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "title": "Cyber Storm Touch — representative battlefield (diagnostic scene)",
+  "camera": {"center": [272, 240], "reference": [640, 544]},
+  "assets": {
+    "ground": {
+      "resource": "CYBDATA4.RBX:S1P1.BMX", "palette": "CYBDATA1.RBX:S1P1.PLX",
+      "frames": [27, 28, 29], "anchor": [0, 0], "key": 0, "fps": 10
+    },
+    "rocks": {
+      "resource": "CYBDATA4.RBX:S1P1.BMX", "palette": "CYBDATA1.RBX:S1P1.PLX",
+      "frames": [60, 61, 62], "anchor": [32, 48], "key": 0, "fps": 10
+    },
+    "herc": {
+      "resource": "CYBDATA1.RBX:HRC001B0.ANX", "palette": "CYBDATA1.RBX:S1P1.PLX",
+      "frames": [0], "anchor": [27, 43], "key": 0, "fps": 10
+    },
+    "effect": {
+      "resource": "CYBDATA2.RBX:FX001.BMX", "palette": "CYBDATA1.RBX:S1P1.PLX",
+      "frames": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30],
+      "anchor": [50, 50], "key": 0, "fps": 10
+    }
+  },
+  "terrain": {"asset": "ground", "columns": 11, "rows": 7},
+  "objects": [
+    {"asset": "rocks", "position": [128, 160], "frame": 0},
+    {"asset": "rocks", "position": [416, 224], "frame": 1},
+    {"asset": "rocks", "position": [320, 352], "frame": 2},
+    {"asset": "herc", "position": [224, 224], "frame": 0},
+    {"asset": "effect", "position": [368, 160], "frame": null}
+  ]
+}
