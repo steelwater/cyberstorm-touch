@@ -10,10 +10,10 @@ and the [Milestone 0 baseline](gog-1.1/inventory.md).
 Project code independently opens the supported installation, enumerates 1,787
 resources, decodes all 886 PKX wrappers, reads 30 regular PLX palettes and all six
 FNX tables, and exports representative BMX/ANX/FLX/font images for local inspection.
-No original executable was run. The reader and PNG visual proof work; browser
-control interaction and responsive layout verification remain blocked because the
-available browser automation rejects `file://` URLs. Captain verification of the
-local HTML viewer is still required before final milestone acceptance.
+No original executable was run. The reader and PNG visual proof work. On
+2026-10-05, Dan confirmed that he tested the local viewer and found no issues,
+resolving the requested manual viewer acceptance follow-up. Browser automation
+remains unable to open `file://` URLs; acceptance is based on Dan's test report.
 
 The project was not a Git repository at preflight. Ignore rules were verified,
 Milestone 0 was preserved as baseline commit `544d053` on `main`, and work continued
@@ -212,10 +212,11 @@ repository has no configured third-party lint/typecheck/build toolchain.
 Focused CLI failure checks passed: missing installation/resource, BGMPALS, missing
 palette selection, out-of-range frames, and unsupported sprite method. Errors return
 nonzero, stderr, and no success output. PNG output was visually inspected, including
-HERC ordering, font digits, FLX orientation and RGB/BGR comparison. HTML controls,
-responsive layouts and direct Windows/Linux visual inspection remain unverified;
-the browser tool denied local file navigation. Do not count this as a full manual
-viewer pass or Captain acceptance.
+HERC ordering, font digits, FLX orientation and RGB/BGR comparison. Browser
+automation denied local file navigation. After being asked to check the controls
+and narrow/wide layouts, Dan reported on 2026-10-05 that he tested the local viewer
+and found no issues. This resolves the manual viewer acceptance follow-up; it does
+not establish a separate Windows/Linux visual test or automated browser pass.
 
 | Area | Confirmed subset | Remaining boundary |
 | --- | --- | --- |
@@ -225,7 +226,7 @@ viewer pass or Captain acceptance.
 | BMX/ANX | Representative full frame sets | Other codecs, palette binding, transparency, anchors, timing |
 | FLX | Three sequences and four chunk types | Other chunk types, original compositing/timing/loops |
 | FNX | Six bounded 8-bit tables, digit visual proof | Original colors/effects/layout, packed-bit variants |
-| Inspector | CLI + generated PNG/HTML | Browser controls/responsive manual acceptance |
+| Inspector | CLI + generated PNG/HTML; viewer accepted by Dan | Automated browser check and separate Windows/Linux visual tests not performed |
 
 ## Milestone 2 handoff and rollback
 
@@ -234,8 +235,8 @@ Smallest interfaces: `Archive.lookup/read`; `unwrap`; `decode_palette` returning
 `Animation.decode(palette)` yielding top-down index images and palette snapshots;
 `Font.glyph(code)`. Keep these independent of future simulation and input.
 
-Recommendation, not an approved next mission: verify the local HTML viewer, then
-resolve terrain sprite method 13/embedded palette handling, transparency and anchors
+Recommendation, not an approved next mission: resolve terrain sprite method
+13/embedded palette handling, transparency and anchors
 before choosing representative battlefield assets. Current image sizes and decode
 proof justify a small renderer experiment but do not establish the final window,
 rendering, input, audio, or Android stack. No production-stack choice is made here.
