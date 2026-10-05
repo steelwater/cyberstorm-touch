@@ -2,11 +2,53 @@
 
 Open-source research toward a platform-independent reimplementation of
 MissionForce: CyberStorm. Users must supply their own legally obtained **GOG 1.1**
-data. This is a reader/inspector milestone, not a playable game.
+data. Milestone 2 adds a diagnostic desktop battlefield renderer; this is not a
+playable game.
 
 Original project code is **GPL-3.0-only**; see [LICENSE](LICENSE). That license grants
 no rights to CyberStorm, its assets, or its trademarks. No original game executable
-is run, and no original assets are included. Production engine selection is deferred.
+is run, and no original assets are included. The approved desktop rendering path
+uses Python + pygame-ce; Android integration remains unproven.
+
+## Run the battlefield renderer
+
+Python **3.11 or later**. From the repository root on macOS/Linux:
+
+```sh
+python3 -m venv .venv
+.venv/bin/python -m pip install -r requirements-renderer.txt
+.venv/bin/python -m tools.battlefield /path/to/data
+```
+
+Windows PowerShell (activation is not required):
+
+```powershell
+py -3 -m venv .venv
+.\.venv\Scripts\python.exe -m pip install -r requirements-renderer.txt
+.\.venv\Scripts\python.exe -m tools.battlefield C:\path\to\data
+```
+
+Supply the directory containing the four original `CYBDATA*.RBX` archives. The
+scene is assembled in memory using the exact validated GOG 1.1 data. It does not
+run the original executable, start a server, or export assets. Use `--check` to
+decode/validate without opening a window, `--size 1280 720` for an initial window
+size, or `--scene path/to/scene.json` for another bounded metadata manifest.
+
+Controls: **+ / −** zoom; **0** reset zoom; **I** switch integer/fractional scaling;
+**G** toggle grid; **Space** pause playback; **F** desktop fullscreen/windowed;
+**Esc** quit. Resize the window normally. Initial framing is deterministic and
+uniform scaling never stretches artwork horizontally. Wider windows expose more
+world space; the small finite diagnostic scene remains centered.
+
+The representative manifest lays out 77 terrain hexes, three rock groups, one
+HERC, and a repeating effect. Positions and the **10 fps diagnostic rate** are
+authored for visual inspection, not reconstructed mission data or original timing.
+There is no selection, panning, movement, combat, or game UI.
+
+See [Milestone 2 findings and verification](docs/research/milestone-2.md) and the
+[approved stack decision](docs/research/milestone-2-stack.md). macOS native rendering
+was checked locally; Windows/Linux native visual checks and true 2× high-DPI
+hardware verification remain pending.
 
 ## Run the local inspector
 
@@ -47,20 +89,24 @@ verification, and remaining limitations.
 ## Verification and contribution
 
 ```sh
-python3 -m unittest discover -s tests -v
-python3 -m compileall -q cyberstorm tools tests
+.venv/bin/python -m unittest discover -s tests -v
+.venv/bin/python -m compileall -q cyberstorm tools tests
 # Optional integration against your local original data; never run this in CI:
 python3 -m tools.verify_local /path/to/data
 ```
 
-Tests generate all fixtures in code. CI runs them on Windows, macOS, and Linux
-with Python 3.11 and 3.14. No third-party runtime dependencies, build system,
-linter, or type-checker configuration is required by this research tool.
+Tests generate all fixtures in code. CI is configured for Windows, macOS, and Linux
+with Python 3.11 and 3.14, installing the pinned renderer dependency. Renderer
+tests use SDL's dummy video driver and software renderer to check actual pixels;
+this does not replace native window/GPU visual checks. Without pygame-ce, only
+the SDL-specific tests skip. Readers and viewport/scene tests remain dependency-free.
+On Windows, substitute `.\.venv\Scripts\python.exe` for `.venv/bin/python` above.
+No separate linter, type-checker, or build toolchain is configured.
 
 Keep installer files in ignored `installer/`; keep extraction, dumps, and decoded
 content in ignored `local-research/`. Never contribute original images, audio,
 palettes, game text, or binaries. Contribute generated-fixture tests and factual
-format observations with explicit limits. Production stack, gameplay, Android,
+format observations with explicit limits. Gameplay, Android implementation,
 touch controls, packaging, and full resource coverage are outside this milestone.
 
 The original probes remain available:
@@ -72,5 +118,5 @@ python3 tools/rbx_probe.py /path/to/data/CYBDATA1.RBX
 
 [Milestone 0 findings](docs/research/gog-1.1/inventory.md) preserve the baseline,
 extraction instructions, roadmap link, and earlier unknowns as historical evidence.
-The canonical [Milestone 1 Crew Brief](https://docs.google.com/document/d/1K1lWGqCYZNJgSGXqXQ5zwlU58M5HzIg_wXg42jb4OhQ/edit)
+The canonical [Milestone 2 Crew Brief](https://docs.google.com/document/d/1GXnwIC6cRotZYDzFHh5d4-XAH9mmpuZ1kK2Kl8YYKsc/edit)
 sets the current scope.
