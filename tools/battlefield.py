@@ -1,4 +1,4 @@
-"""Launch the Milestone 2 desktop renderer using user-supplied GOG 1.1 data."""
+"""Launch the battlefield navigation viewer using user-supplied GOG 1.1 data."""
 
 import argparse
 from pathlib import Path
@@ -36,7 +36,8 @@ def main():
         from cyberstorm.pygame_renderer import BattlefieldWindow
     except ImportError as error:
         parser.exit(1, f'battlefield: install requirements-renderer.txt in a virtual environment ({error})\n')
-    print('Controls: +/- zoom, 0 reset zoom, I integer/fractional, G grid, '
+    print('Controls: click/tap select, drag/one-finger pan, wheel/pinch zoom;\n'
+          '+/- zoom, 0 reset zoom, I integer/fractional, G grid, '
           'Space pause, F desktop fullscreen/windowed, Esc quit.\n'
           'Authored diagnostic scene; playback rates and placement are not original gameplay rules.')
     try:

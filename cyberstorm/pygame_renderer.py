@@ -3,8 +3,10 @@
 import pygame
 from pygame._sdl2.video import Renderer, Texture
 
+from .camera import Camera
+from .navigation import Navigation
 from .scene import number
-from .viewport import Timeline, Viewport
+from .viewport import Timeline
 
 
 def image_surface(image, palette, key=None):
@@ -26,8 +28,8 @@ class BattlefieldWindow:
         self.textures = {}
         self.terrain_texture = None
         self.timeline = Timeline()
-        self.zoom = 1.0
-        self.integer = True
+        self.camera = Camera(scene.reference, scene.center, scene.hexmap.bounds, size)
+        self.navigation = Navigation(self.camera, scene.hexmap, size)
         self.grid = True
         self.fullscreen = False
         self.running = True
@@ -79,21 +81,60 @@ class BattlefieldWindow:
             self.window = None
         pygame.display.quit()
 
+    def _sync_size(self):
+        self.renderer.set_viewport(None)
+        output = self.renderer.get_viewport()
+        if min(output.size) < 1 or min(self.window.size) < 1:
+            self.navigation.cancel()
+            return False
+        self.navigation.resize(self.window.size, output.size)
+        return True
+
     def events(self):
+        self._sync_size()
         for event in pygame.event.get():
             if event.type in (pygame.QUIT, pygame.WINDOWCLOSE):
                 self.running = False
+            elif event.type in (pygame.WINDOWFOCUSLOST, pygame.WINDOWLEAVE,
+                                pygame.WINDOWMINIMIZED):
+                self.navigation.cancel()
+            elif event.type in (pygame.WINDOWSIZECHANGED, pygame.WINDOWRESIZED):
+                self._sync_size()
+            elif event.type in (pygame.FINGERDOWN, pygame.FINGERMOTION, pygame.FINGERUP):
+                point = (event.x * self.window.size[0], event.y * self.window.size[1])
+                identifier = (event.touch_id, event.finger_id)
+                action = {pygame.FINGERDOWN: self.navigation.finger_down,
+                          pygame.FINGERMOTION: self.navigation.finger_move,
+                          pygame.FINGERUP: self.navigation.finger_up}[event.type]
+                action(identifier, point)
+            elif event.type in (pygame.MOUSEBUTTONDOWN, pygame.MOUSEBUTTONUP,
+                                pygame.MOUSEMOTION, pygame.MOUSEWHEEL):
+                # SDL can synthesize mouse events from fingers. Process them once.
+                if event.touch:
+                    continue
+                if event.type == pygame.MOUSEBUTTONDOWN:
+                    self.navigation.mouse_down(event.button, event.pos)
+                elif event.type == pygame.MOUSEBUTTONUP:
+                    self.navigation.mouse_up(event.button, event.pos)
+                elif event.type == pygame.MOUSEMOTION:
+                    self.navigation.mouse_move(event.pos)
+                else:
+                    point = event.pos if event.pos is not None else pygame.mouse.get_pos()
+                    self.navigation.wheel(event.precise_y, point)
             elif event.type == pygame.KEYDOWN:
+                if event.key in (pygame.K_EQUALS, pygame.K_PLUS, pygame.K_KP_PLUS,
+                                 pygame.K_MINUS, pygame.K_KP_MINUS, pygame.K_0, pygame.K_i):
+                    self.navigation.cancel()
                 if event.key == pygame.K_ESCAPE:
                     self.running = False
                 elif event.key in (pygame.K_EQUALS, pygame.K_PLUS, pygame.K_KP_PLUS):
-                    self.zoom = min(4.0, self.zoom * 2)
+                    self.camera.set_zoom(self.camera.zoom * 2)
                 elif event.key in (pygame.K_MINUS, pygame.K_KP_MINUS):
-                    self.zoom = max(0.25, self.zoom / 2)
+                    self.camera.set_zoom(self.camera.zoom / 2)
                 elif event.key == pygame.K_0:
-                    self.zoom = 1.0
+                    self.camera.set_zoom(1.0)
                 elif event.key == pygame.K_i:
-                    self.integer = not self.integer
+                    self.camera.toggle_integer()
                 elif event.key == pygame.K_g:
                     self.grid = not self.grid
                 elif event.key == pygame.K_SPACE:
@@ -104,16 +145,13 @@ class BattlefieldWindow:
                     else:
                         self.window.set_fullscreen(desktop=True)
                     self.fullscreen = not self.fullscreen
+                    self.navigation.cancel()
+                    self._sync_size()
 
     def draw(self):
-        # Reset to the complete drawable after resize. Do not use logical window
-        # points as framebuffer pixels, or retain SDL's old logical-size viewport.
-        self.renderer.set_viewport(None)
-        output = self.renderer.get_viewport()
-        if output.width < 1 or output.height < 1:
-            return None  # Minimized windows can temporarily have no drawable.
-        view = Viewport.fit(output.size, self.scene.reference, self.scene.center,
-                            self.zoom, self.integer)
+        if not self._sync_size():
+            return None
+        view = self.camera.view
         self.renderer.draw_color = (19, 24, 30, 255)
         self.renderer.clear()
         if self.terrain_texture is not None:
@@ -122,16 +160,26 @@ class BattlefieldWindow:
             texture.draw(dstrect=rectangle)
         if self.grid:
             self.renderer.draw_color = (74, 83, 73, 255)
-            for outline in self.scene.outlines:
-                points = [tuple(round(v) for v in view.screen(p)) for p in outline]
-                for i in range(len(points)):
-                    self.renderer.draw_line(points[i - 1], points[i])
+            for cell in sorted(self.scene.hexmap.cells):
+                self._draw_outline(cell, view)
         for item in self.scene.objects:
             self._draw_item(item, view)
+        for cell, color in ((self.navigation.hover, (115, 205, 245, 255)),
+                            (self.navigation.selected, (255, 225, 75, 255))):
+            if cell is not None:
+                self.renderer.draw_color = color
+                self._draw_outline(cell, view)
+        selected = self.navigation.selected
+        selection = f'{selected.column},{selected.row}' if selected is not None else 'none'
         self.window.title = (f'{self.scene.title} | {view.scale:.2f}x '
-                             f'{"integer" if self.integer else "fractional"} | '
-                             f'{"paused" if self.timeline.paused else "diagnostic playback"}')
+                             f'{"integer" if self.camera.integer else "fractional"} | '
+                             f'{"paused" if self.timeline.paused else "diagnostic playback"} | hex {selection}')
         return view
+
+    def _draw_outline(self, cell, view):
+        points = [tuple(round(v) for v in view.screen(p)) for p in cell.outline]
+        for i in range(len(points)):
+            self.renderer.draw_line(points[i - 1], points[i])
 
     def _draw_item(self, item, view):
         asset = self.scene.assets[item.asset]

@@ -8,7 +8,7 @@ from pathlib import Path
 from .bitmap import Image, Sprite
 from .flx import Animation
 from .palette import decode_palette
-from .viewport import hex_origin, hex_outline
+from .hexmap import Hex, HexMap
 
 MAX_FRAME_PIXELS = 4 * 1024 * 1024
 MAX_SCENE_PIXELS = 16 * 1024 * 1024  # At most 64 MiB of RGBA texture source data.
@@ -41,7 +41,7 @@ class Scene:
     assets: dict[str, Asset]
     terrain: tuple[Placement, ...]
     objects: tuple[Placement, ...]
-    outlines: tuple
+    hexmap: HexMap
     center: tuple[float, float]
     reference: tuple[float, float]
 
@@ -172,12 +172,13 @@ def assemble(description, installation):
     ground = assets[asset_id]
     if ground.anchor != (0, 0) or any((f.image.width, f.image.height) != (64, 64) for f in ground.frames):
         raise ValueError('terrain requires 64x64 frames with top-left anchors')
-    terrain, outlines = [], []
+    terrain, cells = [], []
     for column in range(columns):
         for row in range(rows):
-            origin = hex_origin(column, row)
+            cell = Hex(column, row)
+            origin = cell.origin
             terrain.append(Placement(asset_id, origin, (column + row) % len(ground.frames)))
-            outlines.append(hex_outline(origin))
+            cells.append(cell)
     objects = description['objects']
     if not isinstance(objects, list) or len(objects) > 256:
         raise ValueError('scene permits at most 256 objects')
@@ -193,4 +194,4 @@ def assemble(description, installation):
         placements.append(Placement(identifier, pair(item['position'], 'object position'), frame))
     # Explicit ground-contact order; stable ties preserve manifest order.
     placements.sort(key=lambda item: item.position[1])
-    return Scene(title, assets, tuple(terrain), tuple(placements), tuple(outlines), center, view)
+    return Scene(title, assets, tuple(terrain), tuple(placements), HexMap(cells), center, view)

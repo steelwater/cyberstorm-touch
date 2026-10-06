@@ -10,7 +10,8 @@ import unittest
 from unittest.mock import patch
 
 from cyberstorm.scene import assemble, load_scene
-from cyberstorm.viewport import Timeline, Viewport, hex_origin, hex_outline
+from cyberstorm.viewport import Timeline, Viewport
+from cyberstorm.hexmap import Hex
 
 
 def bitmap(width=64, height=64, count=1):
@@ -105,10 +106,10 @@ class ViewportTests(unittest.TestCase):
             Viewport.fit((100, 100), (64, 64), (math.inf, 0))
 
     def test_hexes_have_shared_vertices_and_staggered_columns(self):
-        self.assertEqual(hex_origin(1, 0), (48, 32))
-        self.assertEqual(hex_origin(2, 1), (96, 64))
-        first = set(hex_outline(hex_origin(0, 0)))
-        second = set(hex_outline(hex_origin(1, 0)))
+        self.assertEqual(Hex(1, 0).origin, (48, 32))
+        self.assertEqual(Hex(2, 1).origin, (96, 64))
+        first = set(Hex(0, 0).outline)
+        second = set(Hex(1, 0).outline)
         self.assertEqual(first & second, {(64, 32), (48, 64)})
 
 
