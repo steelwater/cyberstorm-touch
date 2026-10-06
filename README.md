@@ -2,8 +2,8 @@
 
 Open-source research toward a platform-independent reimplementation of
 MissionForce: CyberStorm. Users must supply their own legally obtained **GOG 1.1**
-data. Milestone 2 adds a diagnostic desktop battlefield renderer; this is not a
-playable game.
+data. Milestone 3 adds hex selection and mouse/touch navigation to the diagnostic
+battlefield renderer; this is not a playable game.
 
 Original project code is **GPL-3.0-only**; see [LICENSE](LICENSE). That license grants
 no rights to CyberStorm, its assets, or its trademarks. No original game executable
@@ -34,18 +34,29 @@ run the original executable, start a server, or export assets. Use `--check` to
 decode/validate without opening a window, `--size 1280 720` for an initial window
 size, or `--scene path/to/scene.json` for another bounded metadata manifest.
 
-Controls: **+ / −** zoom; **0** reset zoom; **I** switch integer/fractional scaling;
-**G** toggle grid; **Space** pause playback; **F** desktop fullscreen/windowed;
-**Esc** quit. Resize the window normally. Initial framing is deterministic and
-uniform scaling never stretches artwork horizontally. Wider windows expose more
-world space; the small finite diagnostic scene remains centered.
+Controls: **left click / tap** select a hex; **left, middle, or right drag / one-finger
+pan** move the map; **mouse wheel / two-finger pinch** zoom around the pointer or
+pinch midpoint. An 8-window-point movement threshold separates a tap from a drag.
+Dragging and pinching preserve the existing selection; clicking empty space clears
+it. Yellow marks selection, blue marks mouse hover, and the window title reports
+zero-based `column,row`. These are location diagnostics, not HERC commands.
+
+**+ / −** zoom around the view center; **0** reset zoom; **I** switch integer/fractional
+scaling; **G** toggle grid; **Space** pause playback; **F** desktop fullscreen/windowed;
+**Esc** quit. Resize the window normally. Zoom is bounded to 0.25–4 times the
+reference fit. Integer mode retains stepped pixel scaling; press **I** for smooth
+wheel/pinch scaling. Both modes use nearest-neighbor sampling and equal axis scale.
+Camera bounds follow terrain: axes smaller than the viewport stay centered, while
+larger axes pan to their edges. Some margin is unavoidable on small maps and around
+the scalloped hex perimeter. Focal points are preserved unless bounds require clamping.
 
 The representative manifest lays out 77 terrain hexes, three rock groups, one
 HERC, and a repeating effect. Positions and the **10 fps diagnostic rate** are
 authored for visual inspection, not reconstructed mission data or original timing.
-There is no selection, panning, movement, combat, or game UI.
+There is no HERC movement, combat, or tactical game UI.
 
-See [Milestone 2 findings and verification](docs/research/milestone-2.md) and the
+See [Milestone 3 navigation and playtest checklist](docs/research/milestone-3.md),
+[Milestone 2 findings and verification](docs/research/milestone-2.md) and the
 [approved stack decision](docs/research/milestone-2-stack.md). macOS native rendering
 was checked locally; Windows/Linux native visual checks and true 2× high-DPI
 hardware verification remain pending.
@@ -106,8 +117,8 @@ No separate linter, type-checker, or build toolchain is configured.
 Keep installer files in ignored `installer/`; keep extraction, dumps, and decoded
 content in ignored `local-research/`. Never contribute original images, audio,
 palettes, game text, or binaries. Contribute generated-fixture tests and factual
-format observations with explicit limits. Gameplay, Android implementation,
-touch controls, packaging, and full resource coverage are outside this milestone.
+format observations with explicit limits. Gameplay, Android implementation, full
+touch UX, packaging, and full resource coverage are outside this milestone.
 
 The original probes remain available:
 
@@ -118,5 +129,5 @@ python3 tools/rbx_probe.py /path/to/data/CYBDATA1.RBX
 
 [Milestone 0 findings](docs/research/gog-1.1/inventory.md) preserve the baseline,
 extraction instructions, roadmap link, and earlier unknowns as historical evidence.
-The canonical [Milestone 2 Crew Brief](https://docs.google.com/document/d/1GXnwIC6cRotZYDzFHh5d4-XAH9mmpuZ1kK2Kl8YYKsc/edit)
+The canonical [Milestone 3 Crew Brief](https://docs.google.com/document/d/1EZPYpq-W-xdpwKoIuPqLhAigNUQ4RLYBbWeuNFL-s14/edit)
 sets the current scope.

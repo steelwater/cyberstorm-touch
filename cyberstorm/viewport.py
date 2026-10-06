@@ -1,4 +1,4 @@
-"""Drawing coordinates only; no selection, navigation, or gameplay rules."""
+"""Uniform world/drawable transforms and diagnostic animation timing."""
 
 from dataclasses import dataclass
 import math
@@ -34,6 +34,10 @@ class Viewport:
         return ((point[0] - self.center[0]) * self.scale + self.width / 2,
                 (point[1] - self.center[1]) * self.scale + self.height / 2)
 
+    def world(self, point):
+        return ((point[0] - self.width / 2) / self.scale + self.center[0],
+                (point[1] - self.height / 2) / self.scale + self.center[1])
+
     def rectangle(self, position, anchor, size):
         # Round both edges, not the width independently, so adjacent tiles meet.
         x, y = self.screen((position[0] - anchor[0], position[1] - anchor[1]))
@@ -45,17 +49,6 @@ class Viewport:
         """Centered 16:9 maximum safe width for later UI, in drawable pixels."""
         width = min(self.width, self.height * 16 / 9)
         return ((self.width - width) / 2, 0, width, self.height)
-
-
-def hex_origin(column, row):
-    """Observed 64-pixel S1P1 hex footprint: 48-pixel columns, staggered 32."""
-    return column * 48, row * 64 + (column % 2) * 32
-
-
-def hex_outline(origin):
-    x, y = origin
-    return tuple((x + dx, y + dy) for dx, dy in
-                 ((16, 0), (48, 0), (64, 32), (48, 64), (16, 64), (0, 32)))
 
 
 @dataclass
